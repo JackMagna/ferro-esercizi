@@ -65,6 +65,8 @@ for (const id of ids) {
   ff(...input, '-c:v', 'libx264', '-crf', '30', '-preset', 'slow', '-tune', 'animation', '-pix_fmt', 'yuv420p', '-movflags', '+faststart', '-an', join(out, `${id}.mp4`));
   ff('-i', join(dir, 'f0000.png'), '-c:v', 'libwebp', '-quality', '80', join(out, `${id}.poster.webp`));
   ff('-i', join(dir, 'still.png'), '-c:v', 'libwebp', '-quality', '85', join(out, `${id}.setup.webp`));
+  // GIF piccola per il README (GitHub non mostra i video del repository)
+  ff('-i', join(out, `${id}.mp4`), '-vf', 'fps=12,scale=280:280:flags=lanczos,split[a][b];[a]palettegen=max_colors=64[p];[b][p]paletteuse=dither=bayer', '-loop', '0', join(out, `${id}.gif`));
   if (SHEET) {
     ff('-framerate', String(FPS), '-i', join(dir, 'f%04d.png'), '-vf', `select='not(mod(n\\,${Math.max(1, Math.floor(frames / 8))}))',scale=270:270,tile=4x2`, '-frames:v', '1', join(out, `${id}.sheet.png`));
   }
