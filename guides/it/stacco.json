@@ -1,0 +1,53 @@
+{
+  "id": "stacco",
+  "name": "Stacco da terra",
+  "aliases": [
+    "stacco",
+    "stacco da terra",
+    "deadlift",
+    "stacco classico"
+  ],
+  "libraryIds": [
+    "Barbell_Deadlift"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Glutei, femorali, schiena, quadricipiti, presa",
+  "setup": [
+    "Piedi alla larghezza delle anche sotto la barra, che passa sopra la metà del piede.",
+    "Piegati con le anche indietro e afferra la barra appena fuori dalle gambe.",
+    "Tibie vicine alla barra, schiena neutra, spalle sopra o appena davanti alla barra.",
+    "Prima di tirare, irrigidisci le braccia come per piegare la barra intorno alle gambe."
+  ],
+  "steps": [
+    "Fai un respiro profondo e contrai l'addome.",
+    "Spingi il pavimento con i piedi e porta le anche in avanti, tenendo la barra a contatto con le gambe.",
+    "Arriva in piedi con anche e ginocchia distese, senza piegarti all'indietro.",
+    "Riporta giù la barra spingendo prima le anche indietro, poi piegando le ginocchia."
+  ],
+  "mistakes": [
+    {
+      "error": "Schiena che si arrotonda.",
+      "fix": "Riduci il peso e parti con il petto in fuori; la schiena resta dritta dall'inizio alla fine."
+    },
+    {
+      "error": "Barra lontana dal corpo.",
+      "fix": "Falla scorrere lungo tibie e cosce."
+    },
+    {
+      "error": "Strappo iniziale.",
+      "fix": "Togli il gioco alla barra prima di tirare, poi spingi in modo progressivo."
+    },
+    {
+      "error": "Piegarsi all'indietro in alto.",
+      "fix": "In alto stringi i glutei e fermati in piedi, dritto."
+    }
+  ],
+  "cue": "Barra sulle gambe, spingi il pavimento, schiena dritta.",
+  "feel": "Lavoro su glutei e retro coscia; la schiena regge ma non deve fare male.",
+  "stop": "Fermati se senti dolore lombare o una fitta alla schiena.",
+  "sources": [
+    "ace-deadlift",
+    "nasm-sqdl"
+  ],
+  "reviewedBy": null
+}

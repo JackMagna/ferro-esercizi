@@ -1,0 +1,45 @@
+{
+  "id": "goblet-squat",
+  "name": "Goblet squat",
+  "aliases": [
+    "goblet squat",
+    "squat con kettlebell",
+    "squat con manubrio"
+  ],
+  "libraryIds": [
+    "Goblet_Squat"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Quadricipiti, glutei, addominali",
+  "setup": [
+    "Tieni un kettlebell o un manubrio in verticale davanti al petto, gomiti verso il basso.",
+    "Piedi alla larghezza delle spalle o poco più, punte leggermente in fuori."
+  ],
+  "steps": [
+    "Fai un respiro e contrai l'addome.",
+    "Scendi tra le gambe tenendo il peso vicino al petto e il busto alto.",
+    "Arriva in fondo con i gomiti tra le ginocchia, poi risali spingendo con tutto il piede."
+  ],
+  "mistakes": [
+    {
+      "error": "Peso che si allontana dal corpo.",
+      "fix": "Tienilo appoggiato al petto per tutta la ripetizione."
+    },
+    {
+      "error": "Ginocchia verso l'interno.",
+      "fix": "Spingile in fuori, in linea con le punte."
+    },
+    {
+      "error": "Talloni sollevati.",
+      "fix": "Peso su tutto il piede; allarga un po' l'appoggio."
+    }
+  ],
+  "cue": "Peso al petto, ginocchia fuori, busto alto.",
+  "feel": "Lavoro su cosce e glutei.",
+  "stop": "Fermati se senti dolore al ginocchio o alla schiena.",
+  "sources": [
+    "ace-squat",
+    "acsm-squat"
+  ],
+  "reviewedBy": null
+}

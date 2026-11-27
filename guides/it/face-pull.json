@@ -1,0 +1,45 @@
+{
+  "id": "face-pull",
+  "name": "Face pull ai cavi",
+  "aliases": [
+    "face pull",
+    "tirate al viso",
+    "face pull corda"
+  ],
+  "libraryIds": [
+    "Face_Pull"
+  ],
+  "kind": "cavi",
+  "muscles": "Deltoidi posteriori, trapezio medio, cuffia dei rotatori",
+  "setup": [
+    "Carrucola all'altezza del viso o poco sopra, con la corda.",
+    "Presa con i pollici verso di te, un passo indietro finché il peso si solleva.",
+    "Piedi stabili, addome contratto."
+  ],
+  "steps": [
+    "Tira la corda verso il viso aprendo le mani ai lati delle orecchie.",
+    "Gomiti alti, all'altezza delle spalle, scapole strette.",
+    "Torna lentamente a braccia distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Gomiti bassi, diventa un rematore.",
+      "fix": "Tieni i gomiti all'altezza delle spalle."
+    },
+    {
+      "error": "Peso troppo alto e busto che va indietro.",
+      "fix": "Carico leggero e busto fermo: lavorano muscoli piccoli."
+    },
+    {
+      "error": "Spalle che salgono.",
+      "fix": "Collo lungo e spalle basse."
+    }
+  ],
+  "cue": "Gomiti alti, mani alle orecchie, spalle basse.",
+  "feel": "Lavoro dietro le spalle e tra le scapole.",
+  "stop": "Fermati se senti dolore nella spalla.",
+  "sources": [
+    "lf-fly"
+  ],
+  "reviewedBy": null
+}

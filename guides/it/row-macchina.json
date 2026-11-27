@@ -1,0 +1,47 @@
+{
+  "id": "row-macchina",
+  "name": "Rematore alla macchina (low row)",
+  "aliases": [
+    "low row",
+    "rematore macchina",
+    "row macchina",
+    "iso row"
+  ],
+  "libraryIds": [
+    "Leverage_Iso_Row"
+  ],
+  "kind": "macchina",
+  "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+  "setup": [
+    "Regola il sedile in modo che la parte alta del cuscino per il petto arrivi a metà petto.",
+    "Regola il cuscino del petto per arrivare alle maniglie a braccia distese.",
+    "Piedi ben appoggiati a terra o sulle pedane."
+  ],
+  "steps": [
+    "Petto sul cuscino, tira le maniglie portando i gomiti indietro.",
+    "Stringi le scapole un istante.",
+    "Torna lentamente a braccia distese senza staccare il petto."
+  ],
+  "mistakes": [
+    {
+      "error": "Staccare il petto dal cuscino per tirare di più.",
+      "fix": "Il petto resta appoggiato: se si stacca il peso è troppo."
+    },
+    {
+      "error": "Tirare solo con le braccia.",
+      "fix": "Pensa a portare indietro i gomiti, non le mani."
+    },
+    {
+      "error": "Collo proteso in avanti.",
+      "fix": "Testa in linea con la schiena, sguardo avanti."
+    }
+  ],
+  "cue": "Petto appoggiato, gomiti indietro, scapole strette.",
+  "feel": "Lavoro tra le scapole e ai lati della schiena.",
+  "stop": "Fermati se senti dolore alla spalla o al gomito.",
+  "sources": [
+    "lf-row",
+    "matrix-ultra"
+  ],
+  "reviewedBy": null
+}

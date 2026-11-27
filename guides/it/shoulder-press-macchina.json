@@ -1,0 +1,47 @@
+{
+  "id": "shoulder-press-macchina",
+  "name": "Shoulder press alla macchina",
+  "aliases": [
+    "shoulder press",
+    "lento alla macchina",
+    "spinte spalle macchina"
+  ],
+  "libraryIds": [
+    "Machine_Shoulder_Military_Press",
+    "Leverage_Shoulder_Press"
+  ],
+  "kind": "macchina",
+  "muscles": "Deltoidi, tricipiti",
+  "setup": [
+    "Regola il sedile in modo che le maniglie siano all'altezza delle spalle o poco sopra.",
+    "Schiena, spalle e testa appoggiate, piedi a terra.",
+    "Se la macchina ha le maniglie neutre (palmi che si guardano), usale se hai poca mobilità alle spalle."
+  ],
+  "steps": [
+    "Spingi verso l'alto espirando, fino a braccia quasi distese.",
+    "Non bloccare i gomiti in alto.",
+    "Torna giù lentamente fino alla partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Schiena che si inarca staccandosi dallo schienale.",
+      "fix": "Contrai l'addome e tieni la zona lombare appoggiata; riduci il peso se serve."
+    },
+    {
+      "error": "Sedile troppo basso, con le mani molto sotto le spalle.",
+      "fix": "Alza il sedile: la partenza troppo bassa forza la spalla."
+    },
+    {
+      "error": "Spalle che salgono verso le orecchie.",
+      "fix": "Spingi le mani verso l'alto tenendo il collo lungo."
+    }
+  ],
+  "cue": "Schiena appoggiata, spingi in alto, collo lungo.",
+  "feel": "Lavoro sulle spalle e sul retro delle braccia.",
+  "stop": "Fermati se senti dolore dentro la spalla o un pizzico in alto.",
+  "sources": [
+    "lf-sp",
+    "matrix-ultra"
+  ],
+  "reviewedBy": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "trazioni",
+  "name": "Trazioni alla sbarra",
+  "aliases": [
+    "trazioni",
+    "pull up",
+    "trazioni alla sbarra",
+    "chin up",
+    "trazioni assistite"
+  ],
+  "libraryIds": [
+    "Pullups"
+  ],
+  "kind": "corpo libero",
+  "muscles": "Dorsali, bicipiti, muscoli tra le scapole",
+  "setup": [
+    "Afferra la sbarra con i palmi in avanti, poco più larghi delle spalle.",
+    "Parti appeso a braccia distese, addome contratto, gambe ferme.",
+    "Se non riesci ancora, usa la macchina con il contrappeso o un elastico: più peso di contrappeso significa più aiuto."
+  ],
+  "steps": [
+    "Abbassa le spalle e porta i gomiti verso i fianchi.",
+    "Sali finché il mento supera la sbarra.",
+    "Scendi lentamente fino a braccia distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Slancio con le gambe.",
+      "fix": "Gambe ferme, addome contratto."
+    },
+    {
+      "error": "Mezze ripetizioni.",
+      "fix": "Parti da braccia distese e arriva col mento sopra la sbarra; usa l'assistenza se serve."
+    },
+    {
+      "error": "Spalle alle orecchie.",
+      "fix": "Il primo movimento è abbassare le spalle."
+    }
+  ],
+  "cue": "Spalle giù, gomiti ai fianchi, mento sopra.",
+  "feel": "Lavoro ai lati della schiena e nelle braccia.",
+  "stop": "Fermati se senti dolore alla spalla o al gomito.",
+  "sources": [
+    "lf-adc",
+    "lf-pd"
+  ],
+  "reviewedBy": null
+}

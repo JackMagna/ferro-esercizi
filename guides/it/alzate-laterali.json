@@ -1,0 +1,49 @@
+{
+  "id": "alzate-laterali",
+  "name": "Alzate laterali con manubri",
+  "aliases": [
+    "alzate laterali",
+    "lateral raise",
+    "alzate laterali manubri"
+  ],
+  "libraryIds": [
+    "Side_Lateral_Raise"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Deltoidi laterali",
+  "setup": [
+    "In piedi, manubri lungo le cosce, palmi verso il corpo.",
+    "Piedi poco più larghi delle anche, addome contratto.",
+    "Spalle basse e indietro, gomiti appena piegati."
+  ],
+  "steps": [
+    "Alza le braccia di lato, con i gomiti che salgono insieme alle mani.",
+    "Fermati all'altezza delle spalle, braccia circa parallele al pavimento.",
+    "Scendi lentamente."
+  ],
+  "mistakes": [
+    {
+      "error": "Slancio con il busto.",
+      "fix": "Peso più leggero e busto fermo."
+    },
+    {
+      "error": "Spalle che salgono verso le orecchie.",
+      "fix": "Pensa ad allontanare le mani di lato, non ad alzarle."
+    },
+    {
+      "error": "Mani più alte dei gomiti.",
+      "fix": "Il gomito guida, la mano segue."
+    },
+    {
+      "error": "Salire oltre le spalle.",
+      "fix": "Fermati all'altezza delle spalle."
+    }
+  ],
+  "cue": "Spalle basse, gomiti guidano, fino alle spalle.",
+  "feel": "Lavoro sulla parte laterale della spalla.",
+  "stop": "Fermati se senti un pizzico nella spalla in alto.",
+  "sources": [
+    "ace-lateral"
+  ],
+  "reviewedBy": null
+}

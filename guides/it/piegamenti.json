@@ -1,0 +1,46 @@
+{
+  "id": "piegamenti",
+  "name": "Piegamenti sulle braccia (flessioni)",
+  "aliases": [
+    "piegamenti",
+    "flessioni",
+    "push up",
+    "piegamenti sulle braccia"
+  ],
+  "libraryIds": [
+    "Pushups"
+  ],
+  "kind": "corpo libero",
+  "muscles": "Pettorali, tricipiti, deltoidi anteriori, addominali",
+  "setup": [
+    "Mani a terra poco più larghe delle spalle, spalle sopra le mani.",
+    "Corpo dritto dalla testa ai talloni, addome e glutei contratti.",
+    "Per iniziare puoi appoggiare le ginocchia o le mani su una panca."
+  ],
+  "steps": [
+    "Scendi lentamente con il corpo rigido finché il petto arriva vicino a terra.",
+    "Gomiti a circa 45 gradi dal busto.",
+    "Spingi il pavimento lontano e torna su a braccia distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Schiena che cede o sedere alto.",
+      "fix": "Corpo come una tavola; se non ci riesci, appoggia le ginocchia."
+    },
+    {
+      "error": "Gomiti aperti a 90 gradi.",
+      "fix": "Chiudili verso il busto."
+    },
+    {
+      "error": "Testa che va avanti verso terra.",
+      "fix": "Collo in linea con la schiena, sguardo poco avanti alle mani."
+    }
+  ],
+  "cue": "Corpo rigido, gomiti a 45 gradi, spingi via il pavimento.",
+  "feel": "Lavoro su petto, braccia e addome.",
+  "stop": "Fermati se senti dolore ai polsi o alla spalla.",
+  "sources": [
+    "ace-pushup"
+  ],
+  "reviewedBy": null
+}

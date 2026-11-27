@@ -1,0 +1,13 @@
+{
+  "name": "ferro-esercizi",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Schede di esecuzione degli esercizi in palestra, in italiano: regolazioni, passi, errori comuni.",
+  "type": "module",
+  "license": "SEE LICENSE IN README.md",
+  "scripts": {
+    "check": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

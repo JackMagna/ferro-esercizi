@@ -1,0 +1,46 @@
+{
+  "id": "leg-curl-seduto",
+  "name": "Leg curl seduto",
+  "aliases": [
+    "leg curl seduto",
+    "femorali seduto",
+    "seated leg curl"
+  ],
+  "libraryIds": [
+    "Seated_Leg_Curl"
+  ],
+  "kind": "macchina",
+  "muscles": "Femorali",
+  "setup": [
+    "Regola lo schienale in modo che il ginocchio sia allineato con il perno della macchina.",
+    "Il cuscinetto inferiore va appena sotto i polpacci, vicino alla caviglia.",
+    "Abbassa il cuscinetto sopra le cosce finché le tiene ferme senza schiacciarle."
+  ],
+  "steps": [
+    "Piega le ginocchia portando i talloni sotto il sedile.",
+    "Tieni un istante nel punto più piegato.",
+    "Torna lentamente a gambe quasi distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Bacino che scivola in avanti.",
+      "fix": "Blocca bene il cuscinetto sulle cosce e tieniti alle maniglie."
+    },
+    {
+      "error": "Ritorno veloce che strattona il ginocchio.",
+      "fix": "Controlla la risalita del peso fino alla fine."
+    },
+    {
+      "error": "Punte dei piedi tese per aiutarsi.",
+      "fix": "Tieni le punte verso di te: aiuta a lavorare con i femorali."
+    }
+  ],
+  "cue": "Cosce bloccate, talloni sotto, ritorno lento.",
+  "feel": "Lavoro dietro la coscia, sopra il ginocchio.",
+  "stop": "Fermati se il femorale tira in modo improvviso o senti dolore dietro il ginocchio.",
+  "sources": [
+    "lf-slc",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "croci-cavi",
+  "name": "Croci ai cavi (cable crossover)",
+  "aliases": [
+    "croci ai cavi",
+    "cable crossover",
+    "croci cavi alti",
+    "croci cavi"
+  ],
+  "libraryIds": [
+    "Cable_Crossover"
+  ],
+  "kind": "cavi",
+  "muscles": "Pettorali, deltoidi anteriori",
+  "setup": [
+    "Carrucole alla stessa altezza, di solito sopra le spalle.",
+    "Afferra le maniglie e fai un passo avanti, un piede davanti all'altro.",
+    "Busto leggermente inclinato, gomiti un po' piegati, petto aperto."
+  ],
+  "steps": [
+    "Porta le mani una verso l'altra davanti a te, in un arco, senza cambiare l'angolo dei gomiti.",
+    "Stringi il petto un istante.",
+    "Riapri lentamente fino a sentire un leggero allungamento."
+  ],
+  "mistakes": [
+    {
+      "error": "Tirare con le braccia piegando i gomiti.",
+      "fix": "Gomiti fermi, come se abbracciassi una botte."
+    },
+    {
+      "error": "Aprire troppo, oltre la linea del corpo.",
+      "fix": "Fermati quando le mani sono poco dietro le spalle."
+    },
+    {
+      "error": "Busto che si muove per aiutarsi.",
+      "fix": "Piedi saldi e addome contratto, si muovono solo le braccia."
+    }
+  ],
+  "cue": "Gomiti fermi, abbraccia, apri piano.",
+  "feel": "Lavoro al centro del petto.",
+  "stop": "Fermati se senti dolore davanti alla spalla.",
+  "sources": [
+    "lf-pec"
+  ],
+  "reviewedBy": null
+}

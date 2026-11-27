@@ -1,0 +1,48 @@
+{
+  "id": "dip",
+  "name": "Dip alle parallele",
+  "aliases": [
+    "dip",
+    "parallele",
+    "dips",
+    "dip tricipiti",
+    "dip assistite"
+  ],
+  "libraryIds": [
+    "Dips_-_Triceps_Version",
+    "Parallel_Bar_Dip"
+  ],
+  "kind": "corpo libero",
+  "muscles": "Tricipiti, pettorali, deltoidi anteriori",
+  "setup": [
+    "Afferra le parallele e sollevati a braccia distese.",
+    "Spalle basse, busto quasi verticale per lavorare di più i tricipiti.",
+    "Se è troppo difficile, usa la macchina con il contrappeso."
+  ],
+  "steps": [
+    "Scendi piegando i gomiti, tenendoli vicino al corpo.",
+    "Fermati quando le braccia sono circa parallele al pavimento.",
+    "Spingi su fino a braccia quasi distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Scendere troppo in basso.",
+      "fix": "Fermati con le braccia parallele al pavimento: più giù si carica molto la spalla."
+    },
+    {
+      "error": "Spalle che salgono verso le orecchie.",
+      "fix": "Spingi le spalle in basso per tutta la serie."
+    },
+    {
+      "error": "Gomiti aperti in fuori.",
+      "fix": "Tienili vicini al corpo."
+    }
+  ],
+  "cue": "Spalle giù, gomiti stretti, fino a 90 gradi.",
+  "feel": "Lavoro sul retro delle braccia e sul petto.",
+  "stop": "Fermati se senti dolore davanti alla spalla o allo sterno.",
+  "sources": [
+    "lf-adc"
+  ],
+  "reviewedBy": null
+}

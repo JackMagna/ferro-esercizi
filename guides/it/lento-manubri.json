@@ -1,0 +1,46 @@
+{
+  "id": "lento-manubri",
+  "name": "Lento con manubri da seduto",
+  "aliases": [
+    "lento manubri",
+    "shoulder press manubri",
+    "spinte manubri spalle"
+  ],
+  "libraryIds": [
+    "Seated_Dumbbell_Press",
+    "Dumbbell_Shoulder_Press"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Deltoidi, tricipiti",
+  "setup": [
+    "Schienale quasi verticale, siediti con i manubri sulle cosce.",
+    "Portali all'altezza delle spalle, palmi in avanti o verso di te.",
+    "Schiena appoggiata, piedi a terra."
+  ],
+  "steps": [
+    "Spingi i manubri verso l'alto fino a braccia quasi distese.",
+    "Scendi lentamente fino all'altezza delle orecchie o poco sotto.",
+    "Riparti senza rimbalzare."
+  ],
+  "mistakes": [
+    {
+      "error": "Schiena che si stacca dallo schienale.",
+      "fix": "Addome contratto, zona lombare appoggiata."
+    },
+    {
+      "error": "Manubri che sbattono in alto.",
+      "fix": "Fermati poco prima che si tocchino."
+    },
+    {
+      "error": "Scendere troppo con i gomiti dietro.",
+      "fix": "Gomiti poco avanti rispetto al busto."
+    }
+  ],
+  "cue": "Schiena appoggiata, spingi su, giù fino alle orecchie.",
+  "feel": "Lavoro sulle spalle.",
+  "stop": "Fermati se senti dolore dentro la spalla.",
+  "sources": [
+    "lf-sp"
+  ],
+  "reviewedBy": null
+}

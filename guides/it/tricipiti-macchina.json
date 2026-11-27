@@ -1,0 +1,47 @@
+{
+  "id": "tricipiti-macchina",
+  "name": "Tricipiti alla macchina",
+  "aliases": [
+    "tricipiti macchina",
+    "triceps machine",
+    "estensioni tricipiti macchina",
+    "dip machine"
+  ],
+  "libraryIds": [
+    "Machine_Triceps_Extension"
+  ],
+  "kind": "macchina",
+  "muscles": "Tricipiti",
+  "setup": [
+    "Regola il sedile in modo che il retro delle braccia appoggi tutto sul cuscino e i gomiti siano allineati al perno.",
+    "Afferra le maniglie con una presa salda.",
+    "Busto stabile, piedi bloccati se c'è il supporto."
+  ],
+  "steps": [
+    "Distendi i gomiti spingendo le maniglie.",
+    "Tieni un istante a braccia quasi distese.",
+    "Torna lentamente alla partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Gomiti che si staccano dal cuscino.",
+      "fix": "Il braccio resta fermo: si muove solo l'avambraccio."
+    },
+    {
+      "error": "Gomiti non allineati al perno.",
+      "fix": "Alza o abbassa il sedile finché coincidono."
+    },
+    {
+      "error": "Spingere con le spalle.",
+      "fix": "Spalle basse e ferme."
+    }
+  ],
+  "cue": "Braccia sul cuscino, distendi, torna piano.",
+  "feel": "Lavoro sul retro del braccio.",
+  "stop": "Fermati se senti dolore al gomito.",
+  "sources": [
+    "lf-te",
+    "lf-tp"
+  ],
+  "reviewedBy": null
+}

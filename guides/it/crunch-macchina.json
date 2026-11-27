@@ -1,0 +1,45 @@
+{
+  "id": "crunch-macchina",
+  "name": "Crunch alla macchina",
+  "aliases": [
+    "crunch macchina",
+    "abdominal machine",
+    "addominali macchina"
+  ],
+  "libraryIds": [
+    "Ab_Crunch_Machine"
+  ],
+  "kind": "macchina",
+  "muscles": "Addominali",
+  "setup": [
+    "Regola il sedile in modo che il cuscino lombare appoggi sulla parte bassa della schiena.",
+    "Afferra le maniglie senza tirarle: servono solo a guidare il movimento.",
+    "Piedi agganciati o a terra, come prevede la macchina."
+  ],
+  "steps": [
+    "Espira e arrotola il busto in avanti avvicinando il petto al bacino.",
+    "Tieni un istante contraendo l'addome.",
+    "Torna indietro lentamente."
+  ],
+  "mistakes": [
+    {
+      "error": "Tirare con le braccia.",
+      "fix": "Le braccia accompagnano: il movimento parte dall'addome."
+    },
+    {
+      "error": "Piegarsi dai fianchi invece di arrotolarsi.",
+      "fix": "Pensa ad avvicinare le costole al bacino."
+    },
+    {
+      "error": "Peso troppo alto con strappo iniziale.",
+      "fix": "Riduci il carico e fai ripetizioni lente."
+    }
+  ],
+  "cue": "Espira, costole al bacino, braccia rilassate.",
+  "feel": "Lavoro sull'addome, nessuno sforzo nel collo.",
+  "stop": "Fermati se senti dolore lombare.",
+  "sources": [
+    "lf-abd"
+  ],
+  "reviewedBy": null
+}

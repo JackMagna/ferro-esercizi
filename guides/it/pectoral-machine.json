@@ -1,0 +1,47 @@
+{
+  "id": "pectoral-machine",
+  "name": "Pectoral machine (butterfly)",
+  "aliases": [
+    "pectoral machine",
+    "butterfly",
+    "pec deck",
+    "croci alla macchina"
+  ],
+  "libraryIds": [
+    "Butterfly"
+  ],
+  "kind": "macchina",
+  "muscles": "Pettorali, deltoidi anteriori",
+  "setup": [
+    "Regola il sedile in modo che, con le mani sulle maniglie, i gomiti siano appena sotto le spalle.",
+    "Regola la partenza in modo che le braccia aperte non vadano dietro la linea del corpo.",
+    "Schiena e spalle appoggiate, petto aperto."
+  ],
+  "steps": [
+    "Porta le maniglie una verso l'altra davanti al petto, con i gomiti leggermente piegati e fermi.",
+    "Stringi il petto un istante quando le mani si avvicinano.",
+    "Riapri lentamente fino alla posizione di partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Apertura eccessiva, con le braccia dietro il corpo.",
+      "fix": "Fermati quando le braccia sono in linea con il petto: oltre si carica la spalla."
+    },
+    {
+      "error": "Spalle che si staccano dallo schienale.",
+      "fix": "Tieni le spalle indietro e appoggiate per tutta la serie."
+    },
+    {
+      "error": "Piegare i gomiti e trasformarlo in una spinta.",
+      "fix": "L'angolo del gomito resta lo stesso dall'inizio alla fine."
+    }
+  ],
+  "cue": "Gomiti morbidi e fermi, abbraccia un albero.",
+  "feel": "Lavoro al centro del petto.",
+  "stop": "Fermati se senti dolore davanti alla spalla in apertura.",
+  "sources": [
+    "lf-pec",
+    "lf-fly"
+  ],
+  "reviewedBy": null
+}

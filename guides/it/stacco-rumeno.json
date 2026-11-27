@@ -1,0 +1,49 @@
+{
+  "id": "stacco-rumeno",
+  "name": "Stacco rumeno",
+  "aliases": [
+    "stacco rumeno",
+    "romanian deadlift",
+    "rdl",
+    "stacco a gambe semitese"
+  ],
+  "libraryIds": [
+    "Romanian_Deadlift"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Femorali, glutei, schiena",
+  "setup": [
+    "In piedi con la barra appoggiata alle cosce, presa poco più larga delle anche.",
+    "Piedi alla larghezza delle anche, ginocchia appena piegate.",
+    "Spalle indietro e in basso, sguardo verso il pavimento qualche metro avanti."
+  ],
+  "steps": [
+    "Spingi le anche indietro e lascia scendere la barra lungo le cosce.",
+    "Le ginocchia restano con la stessa leggera piega.",
+    "Scendi finché senti un buon allungamento dietro le cosce, di solito sotto il ginocchio, con la schiena dritta.",
+    "Riporta le anche avanti e torna in piedi tenendo la barra vicina."
+  ],
+  "mistakes": [
+    {
+      "error": "Piegare le ginocchia come in uno squat.",
+      "fix": "Ginocchia ferme: il movimento è solo delle anche che vanno indietro."
+    },
+    {
+      "error": "Schiena che si arrotonda per scendere di più.",
+      "fix": "Fermati dove la schiena resta neutra."
+    },
+    {
+      "error": "Guardarsi allo specchio alzando la testa.",
+      "fix": "Collo in linea con la schiena, sguardo verso il pavimento."
+    }
+  ],
+  "cue": "Anche indietro, ginocchia ferme, barra sulle gambe.",
+  "feel": "Allungamento e lavoro dietro le cosce e nei glutei.",
+  "stop": "Fermati se senti dolore lombare.",
+  "sources": [
+    "nsca-rdl",
+    "ace-rdl",
+    "nasm-rdl"
+  ],
+  "reviewedBy": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "curl-macchina",
+  "name": "Curl alla macchina (panca Scott)",
+  "aliases": [
+    "curl macchina",
+    "panca scott",
+    "bicipiti macchina",
+    "preacher curl"
+  ],
+  "libraryIds": [
+    "Machine_Preacher_Curls"
+  ],
+  "kind": "macchina",
+  "muscles": "Bicipiti",
+  "setup": [
+    "Regola il sedile in modo che il retro delle braccia appoggi tutto sul cuscino e i gomiti siano allineati al perno.",
+    "Petto vicino al cuscino, spalle indietro.",
+    "Afferra le maniglie con i palmi in su."
+  ],
+  "steps": [
+    "Piega i gomiti portando le maniglie verso le spalle.",
+    "Stringi un istante in alto.",
+    "Scendi lentamente quasi fino a braccia distese, senza distenderle di colpo."
+  ],
+  "mistakes": [
+    {
+      "error": "Distendere del tutto il gomito di colpo in basso.",
+      "fix": "Rallenta nell'ultimo tratto e lascia il gomito appena piegato."
+    },
+    {
+      "error": "Alzare il sedere dal sedile per aiutarsi.",
+      "fix": "Riduci il peso e tieni il busto fermo."
+    },
+    {
+      "error": "Polsi piegati all'indietro.",
+      "fix": "Polsi dritti, in linea con l'avambraccio."
+    }
+  ],
+  "cue": "Gomiti sul perno, su lento, giù più lento.",
+  "feel": "Lavoro sulla parte davanti del braccio.",
+  "stop": "Fermati se senti dolore al gomito o all'avambraccio.",
+  "sources": [
+    "lf-bc"
+  ],
+  "reviewedBy": null
+}

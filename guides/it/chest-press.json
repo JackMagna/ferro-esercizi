@@ -1,0 +1,53 @@
+{
+  "id": "chest-press",
+  "name": "Chest press (distensioni alla macchina)",
+  "aliases": [
+    "chest press",
+    "panca alla macchina",
+    "distensioni macchina",
+    "spinte petto macchina"
+  ],
+  "libraryIds": [
+    "Machine_Bench_Press",
+    "Leverage_Chest_Press"
+  ],
+  "kind": "macchina",
+  "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+  "setup": [
+    "Regola il sedile in modo che le maniglie siano all'altezza di metà petto.",
+    "Se c'è la regolazione della partenza, scegli una posizione in cui le mani sono poco davanti al petto, senza tirare sulle spalle.",
+    "Piedi a terra, schiena e testa appoggiate, scapole leggermente unite."
+  ],
+  "steps": [
+    "Spingi in avanti espirando, con i polsi dritti e i gomiti a circa 45 gradi dal busto.",
+    "Arriva quasi a braccia distese senza bloccare i gomiti.",
+    "Torna indietro lentamente fino a sentire un leggero allungamento del petto."
+  ],
+  "mistakes": [
+    {
+      "error": "Sedile troppo basso o troppo alto.",
+      "fix": "Le maniglie vanno a metà petto: troppo in alto lavora la spalla, troppo in basso si inarca la schiena."
+    },
+    {
+      "error": "Spalle che si staccano dallo schienale in spinta.",
+      "fix": "Tieni le scapole appoggiate e ferme: spinge il petto, non la spalla."
+    },
+    {
+      "error": "Gomiti aperti a 90 gradi.",
+      "fix": "Chiudili a circa 45 gradi: è più comodo per la spalla."
+    },
+    {
+      "error": "Gomiti bloccati e pausa in avanti.",
+      "fix": "Fermati appena prima della distensione e riparti."
+    }
+  ],
+  "cue": "Maniglie a metà petto, scapole ferme, gomiti a 45 gradi.",
+  "feel": "Lavoro sul petto e sul retro delle braccia, nessun dolore davanti alla spalla.",
+  "stop": "Fermati se senti dolore nella parte anteriore della spalla.",
+  "sources": [
+    "tg-cp",
+    "lf-cp",
+    "matrix-ultra"
+  ],
+  "reviewedBy": null
+}

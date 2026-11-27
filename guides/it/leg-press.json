@@ -1,0 +1,55 @@
+{
+  "id": "leg-press",
+  "name": "Leg press (pressa per le gambe)",
+  "aliases": [
+    "leg press",
+    "pressa",
+    "pressa 45",
+    "pressa orizzontale"
+  ],
+  "libraryIds": [
+    "Leg_Press"
+  ],
+  "kind": "macchina",
+  "muscles": "Quadricipiti, glutei, femorali",
+  "setup": [
+    "Regola lo schienale o il carrello in modo che, con i piedi sulla pedana, le ginocchia siano piegate circa a 90 gradi.",
+    "Piedi alla larghezza delle anche o delle spalle, punte leggermente in fuori, talloni ben appoggiati.",
+    "Schiena e bacino aderenti allo schienale, mani sulle maniglie laterali.",
+    "Sulle presse a dischi sblocca le sicure solo quando sei in posizione e rimettile alla fine."
+  ],
+  "steps": [
+    "Spingi la pedana con tutto il piede, soprattutto con talloni e metà piede.",
+    "Arriva quasi a gambe distese, lasciando le ginocchia leggermente piegate.",
+    "Torna giù lentamente, in 2 o 3 secondi, fino al punto in cui il bacino resta appoggiato.",
+    "Senza rimbalzare, riparti per la ripetizione successiva."
+  ],
+  "mistakes": [
+    {
+      "error": "Ginocchia bloccate in alto.",
+      "fix": "Fermati poco prima della distensione completa: il carico resta sui muscoli e non sull'articolazione."
+    },
+    {
+      "error": "Bacino che si stacca e schiena che si arrotonda in basso.",
+      "fix": "Scendi meno o allontana un po' il sedile: la discesa finisce dove il bacino resta fermo sullo schienale."
+    },
+    {
+      "error": "Talloni che si sollevano.",
+      "fix": "Sposta i piedi un po' più in alto sulla pedana e spingi dai talloni."
+    },
+    {
+      "error": "Ginocchia che cadono verso l'interno.",
+      "fix": "Tienile in linea con la punta dei piedi, come se volessi aprire leggermente le cosce."
+    }
+  ],
+  "cue": "Talloni giù, bacino incollato, non bloccare le ginocchia.",
+  "feel": "Lavoro su cosce e glutei. Nessun fastidio nella zona lombare.",
+  "stop": "Fermati se senti dolore al ginocchio o alla schiena, o se il bacino si stacca a ogni ripetizione.",
+  "sources": [
+    "lf-slp",
+    "precor-lp",
+    "puregym-lp",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

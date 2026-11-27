@@ -1,0 +1,2277 @@
+{
+  "format": "ferro-guides-v1",
+  "lang": "it",
+  "license": "CC BY-SA 4.0",
+  "updated": "2026-11-27",
+  "notes": "Testi di ferro-esercizi (https://github.com/JackMagna/ferro-esercizi), licenza CC BY-SA 4.0.",
+  "sources": {
+    "lf-abd": {
+      "title": "Life Fitness Insignia, manuale: Abdominal",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=10"
+    },
+    "lf-adc": {
+      "title": "Life Fitness Insignia, manuale: Assisted Dip Chin",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=11"
+    },
+    "lf-be": {
+      "title": "Life Fitness Insignia, manuale: Back Extension",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=12"
+    },
+    "lf-bc": {
+      "title": "Life Fitness Insignia, manuale: Biceps Curl",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=14"
+    },
+    "lf-calf": {
+      "title": "Life Fitness Insignia, manuale: Calf Extension",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=15"
+    },
+    "lf-cp": {
+      "title": "Life Fitness Insignia, manuale: Chest Press",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=16"
+    },
+    "lf-hab": {
+      "title": "Life Fitness Insignia, manuale: Hip Abduction",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=18"
+    },
+    "lf-had": {
+      "title": "Life Fitness Insignia, manuale: Hip Adduction",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=19"
+    },
+    "lf-lc": {
+      "title": "Life Fitness Insignia, manuale: Leg Curl",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=21"
+    },
+    "lf-le": {
+      "title": "Life Fitness Insignia, manuale: Leg Extension",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=22"
+    },
+    "lf-pec": {
+      "title": "Life Fitness Insignia, manuale: Pectoral Fly",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=23"
+    },
+    "lf-fly": {
+      "title": "Life Fitness Insignia, manuale: Pectoral Fly / Rear Deltoid",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=24"
+    },
+    "lf-pd": {
+      "title": "Life Fitness Insignia, manuale: Pulldown",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=25"
+    },
+    "lf-row": {
+      "title": "Life Fitness Insignia, manuale: Row",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=26"
+    },
+    "lf-slc": {
+      "title": "Life Fitness Insignia, manuale: Seated Leg Curl",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=27"
+    },
+    "lf-slp": {
+      "title": "Life Fitness Insignia, manuale: Seated Leg Press",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=28"
+    },
+    "lf-sp": {
+      "title": "Life Fitness Insignia, manuale: Shoulder Press",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=29"
+    },
+    "lf-te": {
+      "title": "Life Fitness Insignia, manuale: Triceps Extension",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=31"
+    },
+    "lf-tp": {
+      "title": "Life Fitness Insignia, manuale: Triceps Press",
+      "url": "https://www.manualslib.com/manual/2274445/Life-Fitness-Insignia-Series.html?page=32"
+    },
+    "precor-lp": {
+      "title": "Precor Resolute, guida Leg Press RSL 602 (sicurezza e regolazioni)",
+      "url": "https://precor-help-assets.s3.amazonaws.com/stg/rsl/602/ENU_RSL_602_CW39550-101_GSG.pdf"
+    },
+    "matrix-uso": {
+      "title": "Matrix Fitness, Aura Leg Press: uso corretto e avvertenze",
+      "url": "https://www.jhta.com.au/wp-content/uploads/2021/03/G3-S70-Owners-Guide.pdf"
+    },
+    "matrix-ultra": {
+      "title": "Matrix Fitness, come usare le macchine Ultra",
+      "url": "https://us.matrixfitness.com/eng/learning/post/how-to-use-ultra-series-selectorized-strength-equipment"
+    },
+    "puregym-lp": {
+      "title": "PureGym, come usare la leg press (macchine Matrix)",
+      "url": "http://www.puregym.com/blog/how-to-use-the-leg-press"
+    },
+    "tg-cp": {
+      "title": "Technogym, allenarsi con la chest press",
+      "url": "https://www.technogym.com/en-INT/stories/training-with-the-chest-press-machine"
+    },
+    "tg-selection": {
+      "title": "Technogym, linea Selection (cartelli, regolazioni gialle)",
+      "url": "https://www.technogym.com/en-US/selection-line/"
+    },
+    "ace-squat": {
+      "title": "ACE, Back Squat",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/11/back-squat"
+    },
+    "acsm-squat": {
+      "title": "ACSM Health & Fitness Journal, The Barbell Back Squat (errori e correzioni)",
+      "url": "https://journals.lww.com/acsm-healthfitness/fulltext/2023/07000/the_barbell_back_squat_exercise.14.aspx"
+    },
+    "nsca-squat": {
+      "title": "NSCA Strength and Conditioning Journal, Optimizing Squat Technique—Revisited",
+      "url": "https://journals.lww.com/nsca-scj/fulltext/2018/12000/optimizing_squat_technique_revisited.10.aspx"
+    },
+    "nasm-sqdl": {
+      "title": "NASM, Squats and Deadlifts: Master the Fundamentals",
+      "url": "https://trainer.nasm.org/hubfs/NASM_Free%20Guide_Squats%20and%20Deadlifts.pdf?hsLang=en"
+    },
+    "ace-deadlift": {
+      "title": "ACE, Deadlift",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/"
+    },
+    "nsca-rdl": {
+      "title": "NSCA, Romanian Deadlift (RDL)",
+      "url": "https://www.nsca.com/education/articles/kinetic-select/romanian-deadlift-rdl"
+    },
+    "ace-rdl": {
+      "title": "ACE, Do it Better: The Romanian Deadlift",
+      "url": "https://www.acefitness.org/continuing-education/certified/may-2025/8865/the-ace-do-it-better-series-the-romanian-deadlift"
+    },
+    "nasm-rdl": {
+      "title": "NASM, Romanian Deadlift Barbell",
+      "url": "https://www.nasm.org/resource-center/exercise-library/romanian-deadlift-barbell"
+    },
+    "ace-dbpress": {
+      "title": "ACE, Chest Press con manubri",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/19/chest-press"
+    },
+    "ace-row": {
+      "title": "ACE, Bent-over Row",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/12/bent-over-row"
+    },
+    "ace-sarow": {
+      "title": "ACE, Single-arm Row",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/126/single-arm-row/"
+    },
+    "ace-lateral": {
+      "title": "ACE, Lateral Raise",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/26/lateral-raise/"
+    },
+    "ace-lunge": {
+      "title": "ACE, Forward Lunge",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/94/forward-lunge"
+    },
+    "ace-bridge": {
+      "title": "ACE, Glute Bridge",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/49/glute-bridge/"
+    },
+    "ace-plank": {
+      "title": "ACE, Front Plank",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/32/front-plank"
+    },
+    "ace-pushup": {
+      "title": "ACE, Push-up",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/41/push-up"
+    },
+    "ace-pushdown": {
+      "title": "ACE, Triceps Pushdowns",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/185/triceps-pushdowns"
+    }
+  },
+  "safety": {
+    "machine": [
+      "Prima di ogni serie controlla che il perno del pacco pesi sia infilato fino in fondo e che ogni regolazione (sedile, schienale, cuscinetti) sia bloccata.",
+      "Scegli un peso che controlli in salita e in discesa: non lasciar sbattere il pacco pesi tra una ripetizione e l'altra.",
+      "Tieni mani, dita, capelli e asciugamano lontano dalle parti in movimento.",
+      "Se la macchina ha un cartello o un QR del produttore, guarda lì la posizione consigliata: le regolazioni cambiano da modello a modello."
+    ],
+    "free": [
+      "Con carichi alti usa i fermi di sicurezza del rack o chiedi assistenza a qualcuno che sappia farla.",
+      "Metti sempre le chiusure ai dischi e libera lo spazio intorno a te prima di iniziare."
+    ],
+    "general": "Queste schede sono indicazioni generali, non sostituiscono un istruttore o un medico. Se senti dolore acuto, formicolio, giramenti di testa o fiato corto anomalo, fermati e chiedi a un professionista."
+  },
+  "guides": [
+    {
+      "id": "abductor",
+      "name": "Abductor (apertura delle gambe)",
+      "aliases": [
+        "abductor",
+        "abduttori",
+        "macchina abduttori",
+        "apertura gambe"
+      ],
+      "libraryIds": [
+        "Thigh_Abductor"
+      ],
+      "kind": "macchina",
+      "muscles": "Glutei medi, abduttori",
+      "setup": [
+        "Siediti con i piedi sulle pedane e le ginocchia piegate circa a 90 gradi.",
+        "Regola la partenza in modo che le gambe partano chiuse ma con il peso già sollevato.",
+        "Schiena appoggiata, mani sulle maniglie."
+      ],
+      "steps": [
+        "Apri le gambe spingendo con l'esterno delle ginocchia contro i cuscinetti.",
+        "Tieni un istante in apertura.",
+        "Richiudi lentamente senza far sbattere il pacco pesi."
+      ],
+      "mistakes": [
+        {
+          "error": "Slancio con il busto avanti e indietro.",
+          "fix": "Busto fermo sullo schienale, si muovono solo le gambe."
+        },
+        {
+          "error": "Richiusura veloce.",
+          "fix": "Controlla il ritorno: è la parte che lavora di più."
+        },
+        {
+          "error": "Escursione troppo ampia che tira all'inguine.",
+          "fix": "Apri fin dove resti comodo e controlli il movimento."
+        }
+      ],
+      "cue": "Busto fermo, apri con le ginocchia, chiudi piano.",
+      "feel": "Lavoro sul lato esterno dei glutei.",
+      "stop": "Fermati se senti dolore all'anca.",
+      "sources": [
+        "lf-hab"
+      ]
+    },
+    {
+      "id": "adductor",
+      "name": "Adductor (chiusura delle gambe)",
+      "aliases": [
+        "adductor",
+        "adduttori",
+        "macchina adduttori",
+        "chiusura gambe"
+      ],
+      "libraryIds": [
+        "Thigh_Adductor",
+        "Cable_Hip_Adduction"
+      ],
+      "kind": "macchina",
+      "muscles": "Adduttori (interno coscia)",
+      "setup": [
+        "Siediti con i piedi sulle pedane e le ginocchia piegate circa a 90 gradi.",
+        "Regola la partenza con un'apertura comoda: senti un leggero allungamento all'interno coscia, non dolore.",
+        "Schiena appoggiata, mani sulle maniglie."
+      ],
+      "steps": [
+        "Chiudi le gambe spingendo con l'interno delle ginocchia.",
+        "Tieni un istante a gambe chiuse.",
+        "Riapri lentamente fino alla partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Apertura di partenza troppo ampia.",
+          "fix": "Inizia con un'apertura media e aumentala nelle settimane: l'inguine si strappa facilmente."
+        },
+        {
+          "error": "Riapertura lasciata andare.",
+          "fix": "Accompagna il ritorno in 2 o 3 secondi."
+        },
+        {
+          "error": "Bacino che scivola in avanti.",
+          "fix": "Siediti in fondo al sedile e tieniti alle maniglie."
+        }
+      ],
+      "cue": "Apertura comoda, chiudi e tieni, riapri piano.",
+      "feel": "Lavoro all'interno della coscia.",
+      "stop": "Fermati se senti una fitta all'inguine.",
+      "sources": [
+        "lf-had"
+      ]
+    },
+    {
+      "id": "affondi",
+      "name": "Affondi con manubri",
+      "aliases": [
+        "affondi",
+        "lunges",
+        "affondi in avanti",
+        "affondi manubri"
+      ],
+      "libraryIds": [
+        "Dumbbell_Lunges"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Quadricipiti, glutei, femorali",
+      "setup": [
+        "In piedi con i piedi uniti, manubri lungo i fianchi.",
+        "Spalle basse, addome contratto, sguardo avanti."
+      ],
+      "steps": [
+        "Fai un passo avanti appoggiando prima il tallone.",
+        "Scendi abbassando il bacino verso terra, finché la coscia davanti è circa parallela al pavimento.",
+        "Spingi con la gamba davanti per tornare alla posizione di partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Ginocchio davanti che cade verso l'interno.",
+          "fix": "Tienilo in linea con il secondo e terzo dito del piede."
+        },
+        {
+          "error": "Passo troppo corto.",
+          "fix": "Allunga il passo finché scendi senza alzare il tallone davanti."
+        },
+        {
+          "error": "Busto che oscilla di lato.",
+          "fix": "Addome contratto, movimento lento; prova prima senza pesi."
+        }
+      ],
+      "cue": "Passo lungo, scendi col bacino, ginocchio sul piede.",
+      "feel": "Lavoro su coscia e gluteo della gamba davanti.",
+      "stop": "Fermati se senti dolore al ginocchio.",
+      "sources": [
+        "ace-lunge"
+      ]
+    },
+    {
+      "id": "alzate-laterali",
+      "name": "Alzate laterali con manubri",
+      "aliases": [
+        "alzate laterali",
+        "lateral raise",
+        "alzate laterali manubri"
+      ],
+      "libraryIds": [
+        "Side_Lateral_Raise"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Deltoidi laterali",
+      "setup": [
+        "In piedi, manubri lungo le cosce, palmi verso il corpo.",
+        "Piedi poco più larghi delle anche, addome contratto.",
+        "Spalle basse e indietro, gomiti appena piegati."
+      ],
+      "steps": [
+        "Alza le braccia di lato, con i gomiti che salgono insieme alle mani.",
+        "Fermati all'altezza delle spalle, braccia circa parallele al pavimento.",
+        "Scendi lentamente."
+      ],
+      "mistakes": [
+        {
+          "error": "Slancio con il busto.",
+          "fix": "Peso più leggero e busto fermo."
+        },
+        {
+          "error": "Spalle che salgono verso le orecchie.",
+          "fix": "Pensa ad allontanare le mani di lato, non ad alzarle."
+        },
+        {
+          "error": "Mani più alte dei gomiti.",
+          "fix": "Il gomito guida, la mano segue."
+        },
+        {
+          "error": "Salire oltre le spalle.",
+          "fix": "Fermati all'altezza delle spalle."
+        }
+      ],
+      "cue": "Spalle basse, gomiti guidano, fino alle spalle.",
+      "feel": "Lavoro sulla parte laterale della spalla.",
+      "stop": "Fermati se senti un pizzico nella spalla in alto.",
+      "sources": [
+        "ace-lateral"
+      ]
+    },
+    {
+      "id": "chest-press",
+      "name": "Chest press (distensioni alla macchina)",
+      "aliases": [
+        "chest press",
+        "panca alla macchina",
+        "distensioni macchina",
+        "spinte petto macchina"
+      ],
+      "libraryIds": [
+        "Machine_Bench_Press",
+        "Leverage_Chest_Press"
+      ],
+      "kind": "macchina",
+      "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+      "setup": [
+        "Regola il sedile in modo che le maniglie siano all'altezza di metà petto.",
+        "Se c'è la regolazione della partenza, scegli una posizione in cui le mani sono poco davanti al petto, senza tirare sulle spalle.",
+        "Piedi a terra, schiena e testa appoggiate, scapole leggermente unite."
+      ],
+      "steps": [
+        "Spingi in avanti espirando, con i polsi dritti e i gomiti a circa 45 gradi dal busto.",
+        "Arriva quasi a braccia distese senza bloccare i gomiti.",
+        "Torna indietro lentamente fino a sentire un leggero allungamento del petto."
+      ],
+      "mistakes": [
+        {
+          "error": "Sedile troppo basso o troppo alto.",
+          "fix": "Le maniglie vanno a metà petto: troppo in alto lavora la spalla, troppo in basso si inarca la schiena."
+        },
+        {
+          "error": "Spalle che si staccano dallo schienale in spinta.",
+          "fix": "Tieni le scapole appoggiate e ferme: spinge il petto, non la spalla."
+        },
+        {
+          "error": "Gomiti aperti a 90 gradi.",
+          "fix": "Chiudili a circa 45 gradi: è più comodo per la spalla."
+        },
+        {
+          "error": "Gomiti bloccati e pausa in avanti.",
+          "fix": "Fermati appena prima della distensione e riparti."
+        }
+      ],
+      "cue": "Maniglie a metà petto, scapole ferme, gomiti a 45 gradi.",
+      "feel": "Lavoro sul petto e sul retro delle braccia, nessun dolore davanti alla spalla.",
+      "stop": "Fermati se senti dolore nella parte anteriore della spalla.",
+      "sources": [
+        "tg-cp",
+        "lf-cp",
+        "matrix-ultra"
+      ]
+    },
+    {
+      "id": "croci-cavi",
+      "name": "Croci ai cavi (cable crossover)",
+      "aliases": [
+        "croci ai cavi",
+        "cable crossover",
+        "croci cavi alti",
+        "croci cavi"
+      ],
+      "libraryIds": [
+        "Cable_Crossover"
+      ],
+      "kind": "cavi",
+      "muscles": "Pettorali, deltoidi anteriori",
+      "setup": [
+        "Carrucole alla stessa altezza, di solito sopra le spalle.",
+        "Afferra le maniglie e fai un passo avanti, un piede davanti all'altro.",
+        "Busto leggermente inclinato, gomiti un po' piegati, petto aperto."
+      ],
+      "steps": [
+        "Porta le mani una verso l'altra davanti a te, in un arco, senza cambiare l'angolo dei gomiti.",
+        "Stringi il petto un istante.",
+        "Riapri lentamente fino a sentire un leggero allungamento."
+      ],
+      "mistakes": [
+        {
+          "error": "Tirare con le braccia piegando i gomiti.",
+          "fix": "Gomiti fermi, come se abbracciassi una botte."
+        },
+        {
+          "error": "Aprire troppo, oltre la linea del corpo.",
+          "fix": "Fermati quando le mani sono poco dietro le spalle."
+        },
+        {
+          "error": "Busto che si muove per aiutarsi.",
+          "fix": "Piedi saldi e addome contratto, si muovono solo le braccia."
+        }
+      ],
+      "cue": "Gomiti fermi, abbraccia, apri piano.",
+      "feel": "Lavoro al centro del petto.",
+      "stop": "Fermati se senti dolore davanti alla spalla.",
+      "sources": [
+        "lf-pec"
+      ]
+    },
+    {
+      "id": "crunch-macchina",
+      "name": "Crunch alla macchina",
+      "aliases": [
+        "crunch macchina",
+        "abdominal machine",
+        "addominali macchina"
+      ],
+      "libraryIds": [
+        "Ab_Crunch_Machine"
+      ],
+      "kind": "macchina",
+      "muscles": "Addominali",
+      "setup": [
+        "Regola il sedile in modo che il cuscino lombare appoggi sulla parte bassa della schiena.",
+        "Afferra le maniglie senza tirarle: servono solo a guidare il movimento.",
+        "Piedi agganciati o a terra, come prevede la macchina."
+      ],
+      "steps": [
+        "Espira e arrotola il busto in avanti avvicinando il petto al bacino.",
+        "Tieni un istante contraendo l'addome.",
+        "Torna indietro lentamente."
+      ],
+      "mistakes": [
+        {
+          "error": "Tirare con le braccia.",
+          "fix": "Le braccia accompagnano: il movimento parte dall'addome."
+        },
+        {
+          "error": "Piegarsi dai fianchi invece di arrotolarsi.",
+          "fix": "Pensa ad avvicinare le costole al bacino."
+        },
+        {
+          "error": "Peso troppo alto con strappo iniziale.",
+          "fix": "Riduci il carico e fai ripetizioni lente."
+        }
+      ],
+      "cue": "Espira, costole al bacino, braccia rilassate.",
+      "feel": "Lavoro sull'addome, nessuno sforzo nel collo.",
+      "stop": "Fermati se senti dolore lombare.",
+      "sources": [
+        "lf-abd"
+      ]
+    },
+    {
+      "id": "curl-bilanciere",
+      "name": "Curl con bilanciere",
+      "aliases": [
+        "curl bilanciere",
+        "barbell curl",
+        "bicipiti bilanciere"
+      ],
+      "libraryIds": [
+        "Barbell_Curl"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Bicipiti, avambracci",
+      "setup": [
+        "In piedi, barra con i palmi in avanti alla larghezza delle spalle.",
+        "Gomiti vicino ai fianchi, spalle basse, addome contratto."
+      ],
+      "steps": [
+        "Piega i gomiti portando la barra verso le spalle.",
+        "Stringi un istante in alto senza portare i gomiti avanti.",
+        "Scendi lentamente fino a braccia quasi distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Dondolare il busto.",
+          "fix": "Busto fermo; se dondoli, il peso è troppo."
+        },
+        {
+          "error": "Gomiti che vanno avanti in alto.",
+          "fix": "Tienili ai fianchi."
+        },
+        {
+          "error": "Discesa lasciata cadere.",
+          "fix": "Scendi in 2 o 3 secondi."
+        }
+      ],
+      "cue": "Gomiti ai fianchi, su senza slancio, giù piano.",
+      "feel": "Lavoro sulla parte davanti del braccio.",
+      "stop": "Fermati se senti dolore al gomito o ai polsi.",
+      "sources": [
+        "lf-bc"
+      ]
+    },
+    {
+      "id": "curl-macchina",
+      "name": "Curl alla macchina (panca Scott)",
+      "aliases": [
+        "curl macchina",
+        "panca scott",
+        "bicipiti macchina",
+        "preacher curl"
+      ],
+      "libraryIds": [
+        "Machine_Preacher_Curls"
+      ],
+      "kind": "macchina",
+      "muscles": "Bicipiti",
+      "setup": [
+        "Regola il sedile in modo che il retro delle braccia appoggi tutto sul cuscino e i gomiti siano allineati al perno.",
+        "Petto vicino al cuscino, spalle indietro.",
+        "Afferra le maniglie con i palmi in su."
+      ],
+      "steps": [
+        "Piega i gomiti portando le maniglie verso le spalle.",
+        "Stringi un istante in alto.",
+        "Scendi lentamente quasi fino a braccia distese, senza distenderle di colpo."
+      ],
+      "mistakes": [
+        {
+          "error": "Distendere del tutto il gomito di colpo in basso.",
+          "fix": "Rallenta nell'ultimo tratto e lascia il gomito appena piegato."
+        },
+        {
+          "error": "Alzare il sedere dal sedile per aiutarsi.",
+          "fix": "Riduci il peso e tieni il busto fermo."
+        },
+        {
+          "error": "Polsi piegati all'indietro.",
+          "fix": "Polsi dritti, in linea con l'avambraccio."
+        }
+      ],
+      "cue": "Gomiti sul perno, su lento, giù più lento.",
+      "feel": "Lavoro sulla parte davanti del braccio.",
+      "stop": "Fermati se senti dolore al gomito o all'avambraccio.",
+      "sources": [
+        "lf-bc"
+      ]
+    },
+    {
+      "id": "curl-manubri",
+      "name": "Curl con manubri (anche a martello)",
+      "aliases": [
+        "curl manubri",
+        "curl alternato",
+        "hammer curl",
+        "curl a martello"
+      ],
+      "libraryIds": [
+        "Dumbbell_Bicep_Curl",
+        "Dumbbell_Alternate_Bicep_Curl",
+        "Hammer_Curls"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Bicipiti, brachiale, avambracci",
+      "setup": [
+        "In piedi o seduto, manubri lungo i fianchi.",
+        "Palmi in avanti per il curl classico, palmi verso il corpo per il curl a martello.",
+        "Gomiti vicino ai fianchi, spalle basse."
+      ],
+      "steps": [
+        "Piega il gomito portando il manubrio verso la spalla.",
+        "Tieni un istante in alto.",
+        "Scendi lentamente; puoi alternare le braccia."
+      ],
+      "mistakes": [
+        {
+          "error": "Slancio con il busto o con la spalla.",
+          "fix": "Si muove solo l'avambraccio."
+        },
+        {
+          "error": "Gomiti che si spostano avanti.",
+          "fix": "Tienili fermi ai fianchi."
+        },
+        {
+          "error": "Polso piegato.",
+          "fix": "Polso dritto, in linea con l'avambraccio."
+        }
+      ],
+      "cue": "Gomito fermo, su e tieni, giù piano.",
+      "feel": "Lavoro sulla parte davanti del braccio.",
+      "stop": "Fermati se senti dolore al gomito.",
+      "sources": [
+        "lf-bc"
+      ]
+    },
+    {
+      "id": "dip",
+      "name": "Dip alle parallele",
+      "aliases": [
+        "dip",
+        "parallele",
+        "dips",
+        "dip tricipiti",
+        "dip assistite"
+      ],
+      "libraryIds": [
+        "Dips_-_Triceps_Version",
+        "Parallel_Bar_Dip"
+      ],
+      "kind": "corpo libero",
+      "muscles": "Tricipiti, pettorali, deltoidi anteriori",
+      "setup": [
+        "Afferra le parallele e sollevati a braccia distese.",
+        "Spalle basse, busto quasi verticale per lavorare di più i tricipiti.",
+        "Se è troppo difficile, usa la macchina con il contrappeso."
+      ],
+      "steps": [
+        "Scendi piegando i gomiti, tenendoli vicino al corpo.",
+        "Fermati quando le braccia sono circa parallele al pavimento.",
+        "Spingi su fino a braccia quasi distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Scendere troppo in basso.",
+          "fix": "Fermati con le braccia parallele al pavimento: più giù si carica molto la spalla."
+        },
+        {
+          "error": "Spalle che salgono verso le orecchie.",
+          "fix": "Spingi le spalle in basso per tutta la serie."
+        },
+        {
+          "error": "Gomiti aperti in fuori.",
+          "fix": "Tienili vicini al corpo."
+        }
+      ],
+      "cue": "Spalle giù, gomiti stretti, fino a 90 gradi.",
+      "feel": "Lavoro sul retro delle braccia e sul petto.",
+      "stop": "Fermati se senti dolore davanti alla spalla o allo sterno.",
+      "sources": [
+        "lf-adc"
+      ]
+    },
+    {
+      "id": "face-pull",
+      "name": "Face pull ai cavi",
+      "aliases": [
+        "face pull",
+        "tirate al viso",
+        "face pull corda"
+      ],
+      "libraryIds": [
+        "Face_Pull"
+      ],
+      "kind": "cavi",
+      "muscles": "Deltoidi posteriori, trapezio medio, cuffia dei rotatori",
+      "setup": [
+        "Carrucola all'altezza del viso o poco sopra, con la corda.",
+        "Presa con i pollici verso di te, un passo indietro finché il peso si solleva.",
+        "Piedi stabili, addome contratto."
+      ],
+      "steps": [
+        "Tira la corda verso il viso aprendo le mani ai lati delle orecchie.",
+        "Gomiti alti, all'altezza delle spalle, scapole strette.",
+        "Torna lentamente a braccia distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Gomiti bassi, diventa un rematore.",
+          "fix": "Tieni i gomiti all'altezza delle spalle."
+        },
+        {
+          "error": "Peso troppo alto e busto che va indietro.",
+          "fix": "Carico leggero e busto fermo: lavorano muscoli piccoli."
+        },
+        {
+          "error": "Spalle che salgono.",
+          "fix": "Collo lungo e spalle basse."
+        }
+      ],
+      "cue": "Gomiti alti, mani alle orecchie, spalle basse.",
+      "feel": "Lavoro dietro le spalle e tra le scapole.",
+      "stop": "Fermati se senti dolore nella spalla.",
+      "sources": [
+        "lf-fly"
+      ]
+    },
+    {
+      "id": "goblet-squat",
+      "name": "Goblet squat",
+      "aliases": [
+        "goblet squat",
+        "squat con kettlebell",
+        "squat con manubrio"
+      ],
+      "libraryIds": [
+        "Goblet_Squat"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Quadricipiti, glutei, addominali",
+      "setup": [
+        "Tieni un kettlebell o un manubrio in verticale davanti al petto, gomiti verso il basso.",
+        "Piedi alla larghezza delle spalle o poco più, punte leggermente in fuori."
+      ],
+      "steps": [
+        "Fai un respiro e contrai l'addome.",
+        "Scendi tra le gambe tenendo il peso vicino al petto e il busto alto.",
+        "Arriva in fondo con i gomiti tra le ginocchia, poi risali spingendo con tutto il piede."
+      ],
+      "mistakes": [
+        {
+          "error": "Peso che si allontana dal corpo.",
+          "fix": "Tienilo appoggiato al petto per tutta la ripetizione."
+        },
+        {
+          "error": "Ginocchia verso l'interno.",
+          "fix": "Spingile in fuori, in linea con le punte."
+        },
+        {
+          "error": "Talloni sollevati.",
+          "fix": "Peso su tutto il piede; allarga un po' l'appoggio."
+        }
+      ],
+      "cue": "Peso al petto, ginocchia fuori, busto alto.",
+      "feel": "Lavoro su cosce e glutei.",
+      "stop": "Fermati se senti dolore al ginocchio o alla schiena.",
+      "sources": [
+        "ace-squat",
+        "acsm-squat"
+      ]
+    },
+    {
+      "id": "hack-squat",
+      "name": "Hack squat",
+      "aliases": [
+        "hack squat",
+        "squat alla macchina inclinata"
+      ],
+      "libraryIds": [
+        "Hack_Squat"
+      ],
+      "kind": "macchina",
+      "muscles": "Quadricipiti, glutei",
+      "setup": [
+        "Spalle sotto i cuscinetti, schiena appoggiata allo schienale.",
+        "Piedi alla larghezza delle spalle a metà pedana, punte leggermente in fuori.",
+        "Distendi le gambe e sblocca le sicure solo quando sei stabile."
+      ],
+      "steps": [
+        "Scendi piegando le ginocchia, mantenendo la schiena appoggiata.",
+        "Arriva almeno con le cosce parallele alla pedana, se sei comodo.",
+        "Spingi con tutto il piede per tornare su, senza bloccare le ginocchia."
+      ],
+      "mistakes": [
+        {
+          "error": "Talloni che si alzano in basso.",
+          "fix": "Sposta i piedi un po' più in alto sulla pedana."
+        },
+        {
+          "error": "Ginocchia verso l'interno in risalita.",
+          "fix": "Spingi le ginocchia in linea con le punte."
+        },
+        {
+          "error": "Bacino che si stacca in fondo.",
+          "fix": "Scendi fin dove la schiena resta appoggiata."
+        }
+      ],
+      "cue": "Schiena appoggiata, ginocchia sulle punte, spingi dai talloni.",
+      "feel": "Lavoro sulle cosce e sui glutei.",
+      "stop": "Fermati se senti dolore al ginocchio o alla schiena.",
+      "sources": [
+        "matrix-uso",
+        "acsm-squat"
+      ]
+    },
+    {
+      "id": "hip-thrust",
+      "name": "Hip thrust e ponte per i glutei",
+      "aliases": [
+        "hip thrust",
+        "ponte glutei",
+        "glute bridge",
+        "spinte d'anca"
+      ],
+      "libraryIds": [
+        "Barbell_Hip_Thrust",
+        "Barbell_Glute_Bridge"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Glutei, femorali",
+      "setup": [
+        "Hip thrust: parte alta della schiena sul bordo di una panca. Ponte: sdraiato a terra.",
+        "Bilanciere sopra le anche, con un cuscinetto per proteggere le ossa del bacino.",
+        "Piedi alla larghezza delle anche, piantati a terra, a una distanza che in alto lascia le tibie verticali."
+      ],
+      "steps": [
+        "Contrai l'addome e spingi con i talloni sollevando il bacino.",
+        "In alto il corpo forma una linea dalle spalle alle ginocchia: stringi i glutei un istante.",
+        "Scendi lentamente senza appoggiare del tutto il peso."
+      ],
+      "mistakes": [
+        {
+          "error": "Inarcare la schiena in alto.",
+          "fix": "Fermati quando il bacino è in linea con il busto e tieni le costole basse."
+        },
+        {
+          "error": "Spingere con le punte.",
+          "fix": "Spingi dai talloni."
+        },
+        {
+          "error": "Piedi troppo vicini o lontani.",
+          "fix": "Regolali finché in alto le tibie sono verticali."
+        }
+      ],
+      "cue": "Costole basse, spingi dai talloni, stringi i glutei.",
+      "feel": "Lavoro nei glutei, non nella zona lombare.",
+      "stop": "Fermati se senti dolore lombare o il bilanciere preme troppo sul bacino.",
+      "sources": [
+        "ace-bridge"
+      ]
+    },
+    {
+      "id": "iperestensioni",
+      "name": "Iperestensioni (panca lombare)",
+      "aliases": [
+        "iperestensioni",
+        "panca lombare",
+        "back extension",
+        "estensioni schiena"
+      ],
+      "libraryIds": [
+        "Hyperextensions_Back_Extensions"
+      ],
+      "kind": "macchina",
+      "muscles": "Lombari, glutei, femorali",
+      "setup": [
+        "Regola il cuscino in modo che il bordo sia appena sotto le anche: devi poterti piegare dalle anche.",
+        "Talloni sotto i rulli, braccia incrociate sul petto."
+      ],
+      "steps": [
+        "Scendi piegandoti dalle anche con la schiena dritta.",
+        "Risali contraendo glutei e lombari fino a corpo in linea.",
+        "Fermati in linea, senza inarcarti all'indietro."
+      ],
+      "mistakes": [
+        {
+          "error": "Salire oltre la linea del corpo.",
+          "fix": "Fermati quando busto e gambe sono allineati."
+        },
+        {
+          "error": "Cuscino troppo alto, sulla pancia.",
+          "fix": "Abbassalo sotto le anche."
+        },
+        {
+          "error": "Movimento veloce a scatti.",
+          "fix": "Sali e scendi in 2 o 3 secondi."
+        }
+      ],
+      "cue": "Piegati dalle anche, sali fino in linea.",
+      "feel": "Lavoro su glutei e bassa schiena, senza dolore.",
+      "stop": "Fermati se senti dolore lombare acuto.",
+      "sources": [
+        "lf-be"
+      ]
+    },
+    {
+      "id": "lat-machine",
+      "name": "Lat machine (lat pulldown)",
+      "aliases": [
+        "lat machine",
+        "lat pulldown",
+        "lat avanti",
+        "trazioni alla lat",
+        "lat presa stretta"
+      ],
+      "libraryIds": [
+        "Wide-Grip_Lat_Pulldown",
+        "Close-Grip_Front_Lat_Pulldown"
+      ],
+      "kind": "cavi",
+      "muscles": "Dorsali, bicipiti, muscoli tra le scapole",
+      "setup": [
+        "Regola il rullo in modo che le cosce siano bloccate sotto, con i piedi a terra.",
+        "Afferra la barra un po' più larga delle spalle (presa larga) oppure con la maniglia stretta, poi siediti.",
+        "Busto leggermente inclinato indietro dai fianchi, petto in fuori."
+      ],
+      "steps": [
+        "Prima abbassa le spalle, poi tira la barra verso la parte alta del petto portando i gomiti verso i fianchi.",
+        "Tieni un istante con le scapole strette.",
+        "Torna su lentamente fino a braccia quasi distese, lasciando salire le spalle solo alla fine."
+      ],
+      "mistakes": [
+        {
+          "error": "Tirare dietro la nuca.",
+          "fix": "Porta la barra davanti, verso lo sterno: dietro la nuca stressa spalle e collo."
+        },
+        {
+          "error": "Dondolare indietro con il busto.",
+          "fix": "Tieni un'inclinazione fissa e riduci il peso: deve tirare la schiena, non lo slancio."
+        },
+        {
+          "error": "Spalle alle orecchie durante la tirata.",
+          "fix": "Parti abbassando le spalle e pensa a portare i gomiti in tasca."
+        },
+        {
+          "error": "Risalita lasciata andare.",
+          "fix": "Accompagna la barra su in 2 o 3 secondi."
+        }
+      ],
+      "cue": "Spalle giù, gomiti in tasca, barra al petto.",
+      "feel": "Lavoro ai lati della schiena, sotto le ascelle.",
+      "stop": "Fermati se senti dolore alla spalla o un pizzico al collo.",
+      "sources": [
+        "lf-pd",
+        "matrix-ultra"
+      ]
+    },
+    {
+      "id": "leg-curl-sdraiato",
+      "name": "Leg curl sdraiato",
+      "aliases": [
+        "leg curl sdraiato",
+        "leg curl prono",
+        "femorali sdraiato"
+      ],
+      "libraryIds": [
+        "Lying_Leg_Curls"
+      ],
+      "kind": "macchina",
+      "muscles": "Femorali",
+      "setup": [
+        "Sdraiati a pancia in giù con le ginocchia appena fuori dal bordo della panca, allineate al perno.",
+        "Il cuscinetto va appena sopra i talloni, sul retro della caviglia.",
+        "Bacino e pancia appoggiati, mani sulle maniglie."
+      ],
+      "steps": [
+        "Piega le ginocchia portando i talloni verso i glutei.",
+        "Tieni un istante in alto.",
+        "Torna giù lentamente senza distendere di colpo le gambe."
+      ],
+      "mistakes": [
+        {
+          "error": "Bacino che si alza dalla panca.",
+          "fix": "Spingi il bacino contro il cuscino: se si alza il peso è troppo."
+        },
+        {
+          "error": "Schiena che si inarca.",
+          "fix": "Contrai leggermente addome e glutei per tenere il bacino fermo."
+        },
+        {
+          "error": "Ginocchia sulla panca e non sul bordo.",
+          "fix": "Scivola indietro finché le rotule sono appena fuori dal cuscino."
+        }
+      ],
+      "cue": "Bacino giù, talloni ai glutei, scendi piano.",
+      "feel": "Lavoro dietro la coscia, nessun fastidio lombare.",
+      "stop": "Fermati se senti crampi forti o dolore alla schiena.",
+      "sources": [
+        "lf-lc",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "leg-curl-seduto",
+      "name": "Leg curl seduto",
+      "aliases": [
+        "leg curl seduto",
+        "femorali seduto",
+        "seated leg curl"
+      ],
+      "libraryIds": [
+        "Seated_Leg_Curl"
+      ],
+      "kind": "macchina",
+      "muscles": "Femorali",
+      "setup": [
+        "Regola lo schienale in modo che il ginocchio sia allineato con il perno della macchina.",
+        "Il cuscinetto inferiore va appena sotto i polpacci, vicino alla caviglia.",
+        "Abbassa il cuscinetto sopra le cosce finché le tiene ferme senza schiacciarle."
+      ],
+      "steps": [
+        "Piega le ginocchia portando i talloni sotto il sedile.",
+        "Tieni un istante nel punto più piegato.",
+        "Torna lentamente a gambe quasi distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Bacino che scivola in avanti.",
+          "fix": "Blocca bene il cuscinetto sulle cosce e tieniti alle maniglie."
+        },
+        {
+          "error": "Ritorno veloce che strattona il ginocchio.",
+          "fix": "Controlla la risalita del peso fino alla fine."
+        },
+        {
+          "error": "Punte dei piedi tese per aiutarsi.",
+          "fix": "Tieni le punte verso di te: aiuta a lavorare con i femorali."
+        }
+      ],
+      "cue": "Cosce bloccate, talloni sotto, ritorno lento.",
+      "feel": "Lavoro dietro la coscia, sopra il ginocchio.",
+      "stop": "Fermati se il femorale tira in modo improvviso o senti dolore dietro il ginocchio.",
+      "sources": [
+        "lf-slc",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "leg-extension",
+      "name": "Leg extension",
+      "aliases": [
+        "leg extension",
+        "estensioni gambe",
+        "quadricipiti macchina"
+      ],
+      "libraryIds": [
+        "Leg_Extensions"
+      ],
+      "kind": "macchina",
+      "muscles": "Quadricipiti",
+      "setup": [
+        "Regola lo schienale finché il ginocchio è allineato con il perno della macchina (di solito segnato da un bollino o da un colore).",
+        "Il cuscinetto per le gambe va appena sopra la caviglia, sul collo del piede, non sugli stinchi.",
+        "Se c'è la regolazione della partenza, scegli un angolo comodo per il ginocchio.",
+        "Schiena appoggiata, mani sulle maniglie laterali."
+      ],
+      "steps": [
+        "Distendi le gambe in modo controllato fino quasi alla distensione completa.",
+        "Tieni un istante in alto contraendo le cosce.",
+        "Torna giù lentamente senza far toccare il pacco pesi."
+      ],
+      "mistakes": [
+        {
+          "error": "Ginocchio non allineato al perno.",
+          "fix": "Sposta lo schienale: con il ginocchio fuori asse il movimento tira sull'articolazione."
+        },
+        {
+          "error": "Slancio e bacino che si solleva dal sedile.",
+          "fix": "Riduci il peso e tieniti alle maniglie: il movimento parte solo dal ginocchio."
+        },
+        {
+          "error": "Discesa lasciata cadere.",
+          "fix": "Scendi in 2 o 3 secondi, è metà del lavoro."
+        }
+      ],
+      "cue": "Ginocchio sul perno, sali e tieni, scendi piano.",
+      "feel": "Lavoro sulla parte davanti della coscia.",
+      "stop": "Fermati se senti dolore sotto la rotula o dentro il ginocchio.",
+      "sources": [
+        "lf-le",
+        "tg-selection",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "leg-press-polpacci",
+      "name": "Polpacci alla leg press",
+      "aliases": [
+        "calf alla pressa",
+        "calf press",
+        "polpacci pressa"
+      ],
+      "libraryIds": [
+        "Calf_Press_On_The_Leg_Press_Machine"
+      ],
+      "kind": "macchina",
+      "muscles": "Polpacci",
+      "setup": [
+        "Siediti alla leg press con un carico più leggero di quello che usi per le gambe.",
+        "Appoggia solo l'avampiede sul bordo basso della pedana, talloni fuori.",
+        "Distendi le gambe lasciando le ginocchia appena morbide. Sulle presse a dischi lascia inserite le sicure se la macchina lo permette."
+      ],
+      "steps": [
+        "Spingi la pedana con la punta dei piedi, sollevando i talloni il più possibile.",
+        "Tieni un secondo in alto.",
+        "Torna indietro lentamente fino a sentire l'allungamento del polpaccio."
+      ],
+      "mistakes": [
+        {
+          "error": "Piegare e distendere le ginocchia per aiutarsi.",
+          "fix": "Le ginocchia restano ferme: si muove solo la caviglia."
+        },
+        {
+          "error": "Ripetizioni corte e veloci.",
+          "fix": "Usa tutta l'escursione, dall'allungamento alla punta, con una pausa in alto."
+        },
+        {
+          "error": "Piedi che scivolano dal bordo.",
+          "fix": "Appoggia bene tutta la parte sotto le dita e usa scarpe con suola che non scivola."
+        }
+      ],
+      "cue": "Ginocchia ferme, sali sulle punte, tieni un secondo.",
+      "feel": "Bruciore nei polpacci, nessun carico sulle ginocchia.",
+      "stop": "Fermati se il piede scivola o se senti dolore al tendine d'Achille.",
+      "sources": [
+        "lf-calf",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "leg-press",
+      "name": "Leg press (pressa per le gambe)",
+      "aliases": [
+        "leg press",
+        "pressa",
+        "pressa 45",
+        "pressa orizzontale"
+      ],
+      "libraryIds": [
+        "Leg_Press"
+      ],
+      "kind": "macchina",
+      "muscles": "Quadricipiti, glutei, femorali",
+      "setup": [
+        "Regola lo schienale o il carrello in modo che, con i piedi sulla pedana, le ginocchia siano piegate circa a 90 gradi.",
+        "Piedi alla larghezza delle anche o delle spalle, punte leggermente in fuori, talloni ben appoggiati.",
+        "Schiena e bacino aderenti allo schienale, mani sulle maniglie laterali.",
+        "Sulle presse a dischi sblocca le sicure solo quando sei in posizione e rimettile alla fine."
+      ],
+      "steps": [
+        "Spingi la pedana con tutto il piede, soprattutto con talloni e metà piede.",
+        "Arriva quasi a gambe distese, lasciando le ginocchia leggermente piegate.",
+        "Torna giù lentamente, in 2 o 3 secondi, fino al punto in cui il bacino resta appoggiato.",
+        "Senza rimbalzare, riparti per la ripetizione successiva."
+      ],
+      "mistakes": [
+        {
+          "error": "Ginocchia bloccate in alto.",
+          "fix": "Fermati poco prima della distensione completa: il carico resta sui muscoli e non sull'articolazione."
+        },
+        {
+          "error": "Bacino che si stacca e schiena che si arrotonda in basso.",
+          "fix": "Scendi meno o allontana un po' il sedile: la discesa finisce dove il bacino resta fermo sullo schienale."
+        },
+        {
+          "error": "Talloni che si sollevano.",
+          "fix": "Sposta i piedi un po' più in alto sulla pedana e spingi dai talloni."
+        },
+        {
+          "error": "Ginocchia che cadono verso l'interno.",
+          "fix": "Tienile in linea con la punta dei piedi, come se volessi aprire leggermente le cosce."
+        }
+      ],
+      "cue": "Talloni giù, bacino incollato, non bloccare le ginocchia.",
+      "feel": "Lavoro su cosce e glutei. Nessun fastidio nella zona lombare.",
+      "stop": "Fermati se senti dolore al ginocchio o alla schiena, o se il bacino si stacca a ogni ripetizione.",
+      "sources": [
+        "lf-slp",
+        "precor-lp",
+        "puregym-lp",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "lento-avanti",
+      "name": "Lento avanti con bilanciere in piedi",
+      "aliases": [
+        "lento avanti",
+        "military press",
+        "overhead press",
+        "lento in piedi"
+      ],
+      "libraryIds": [
+        "Standing_Military_Press"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Deltoidi, tricipiti, muscoli del tronco",
+      "setup": [
+        "Prendi la barra dal rack all'altezza delle spalle, presa poco più larga delle spalle.",
+        "Piedi alla larghezza delle anche, glutei e addome contratti.",
+        "Barra appoggiata sulla parte alta del petto, gomiti leggermente avanti."
+      ],
+      "steps": [
+        "Spingi la barra in verticale spostando appena la testa indietro per farla passare.",
+        "Quando la barra supera la fronte, riporta la testa sotto, con la barra sopra la nuca.",
+        "Scendi lentamente fino alle spalle."
+      ],
+      "mistakes": [
+        {
+          "error": "Inarcare molto la schiena.",
+          "fix": "Stringi glutei e addome; se non basta, il peso è troppo."
+        },
+        {
+          "error": "Barra che va in avanti.",
+          "fix": "Traiettoria verticale vicino al viso."
+        },
+        {
+          "error": "Spinta con le gambe senza volerlo.",
+          "fix": "Ginocchia ferme, salvo che il programma non preveda la spinta."
+        }
+      ],
+      "cue": "Glutei stretti, barra dritta, testa sotto in alto.",
+      "feel": "Lavoro su spalle e tricipiti, schiena stabile.",
+      "stop": "Fermati se senti dolore lombare o alla spalla.",
+      "sources": [
+        "lf-sp"
+      ]
+    },
+    {
+      "id": "lento-manubri",
+      "name": "Lento con manubri da seduto",
+      "aliases": [
+        "lento manubri",
+        "shoulder press manubri",
+        "spinte manubri spalle"
+      ],
+      "libraryIds": [
+        "Seated_Dumbbell_Press",
+        "Dumbbell_Shoulder_Press"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Deltoidi, tricipiti",
+      "setup": [
+        "Schienale quasi verticale, siediti con i manubri sulle cosce.",
+        "Portali all'altezza delle spalle, palmi in avanti o verso di te.",
+        "Schiena appoggiata, piedi a terra."
+      ],
+      "steps": [
+        "Spingi i manubri verso l'alto fino a braccia quasi distese.",
+        "Scendi lentamente fino all'altezza delle orecchie o poco sotto.",
+        "Riparti senza rimbalzare."
+      ],
+      "mistakes": [
+        {
+          "error": "Schiena che si stacca dallo schienale.",
+          "fix": "Addome contratto, zona lombare appoggiata."
+        },
+        {
+          "error": "Manubri che sbattono in alto.",
+          "fix": "Fermati poco prima che si tocchino."
+        },
+        {
+          "error": "Scendere troppo con i gomiti dietro.",
+          "fix": "Gomiti poco avanti rispetto al busto."
+        }
+      ],
+      "cue": "Schiena appoggiata, spingi su, giù fino alle orecchie.",
+      "feel": "Lavoro sulle spalle.",
+      "stop": "Fermati se senti dolore dentro la spalla.",
+      "sources": [
+        "lf-sp"
+      ]
+    },
+    {
+      "id": "panca-inclinata-manubri",
+      "name": "Panca inclinata con manubri",
+      "aliases": [
+        "panca inclinata",
+        "inclinata manubri",
+        "distensioni inclinate"
+      ],
+      "libraryIds": [
+        "Incline_Dumbbell_Press"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Pettorali (parte alta), deltoidi anteriori, tricipiti",
+      "setup": [
+        "Inclina lo schienale tra 30 e 45 gradi.",
+        "Siediti con i manubri sulle cosce e portali alle spalle mentre ti appoggi.",
+        "Piedi a terra, scapole strette contro lo schienale."
+      ],
+      "steps": [
+        "Spingi i manubri in alto sopra la parte alta del petto.",
+        "Scendi lentamente ai lati del petto con i gomiti a circa 45 gradi.",
+        "Risali espirando senza bloccare i gomiti."
+      ],
+      "mistakes": [
+        {
+          "error": "Schienale troppo inclinato, oltre 45 gradi.",
+          "fix": "Abbassalo: più su diventa un esercizio per le spalle."
+        },
+        {
+          "error": "Schiena che si inarca molto.",
+          "fix": "Glutei e spalle appoggiati, addome contratto."
+        },
+        {
+          "error": "Gomiti aperti in fuori.",
+          "fix": "Chiudili un po' verso i fianchi."
+        }
+      ],
+      "cue": "Schienale a 30 gradi, scapole giù, gomiti a 45 gradi.",
+      "feel": "Lavoro sulla parte alta del petto.",
+      "stop": "Fermati se senti dolore alla spalla.",
+      "sources": [
+        "ace-dbpress"
+      ]
+    },
+    {
+      "id": "panca-manubri",
+      "name": "Panca piana con manubri",
+      "aliases": [
+        "panca manubri",
+        "distensioni manubri",
+        "dumbbell press"
+      ],
+      "libraryIds": [
+        "Dumbbell_Bench_Press"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+      "setup": [
+        "Siediti sulla panca con i manubri sulle cosce, poi sdraiati portandoli al petto.",
+        "Piedi a terra, scapole strette e appoggiate.",
+        "Spingi i manubri sopra il petto, polsi dritti."
+      ],
+      "steps": [
+        "Scendi lentamente portando i manubri ai lati del petto, gomiti a circa 45 gradi.",
+        "Fermati quando senti un leggero allungamento del petto.",
+        "Spingi su espirando, avvicinando un po' i manubri in alto."
+      ],
+      "mistakes": [
+        {
+          "error": "Scendere troppo, oltre la linea del petto.",
+          "fix": "Fermati quando le braccia sono poco sotto la linea della panca."
+        },
+        {
+          "error": "Manubri che sbandano.",
+          "fix": "Riduci il peso e muovili insieme, con calma."
+        },
+        {
+          "error": "Lasciar cadere i manubri a fine serie.",
+          "fix": "Riportali alle cosce mentre ti rialzi, o chiedi aiuto."
+        }
+      ],
+      "cue": "Scapole giù, scendi controllato, spingi insieme.",
+      "feel": "Lavoro su petto, spalle davanti e tricipiti.",
+      "stop": "Fermati se senti dolore alla spalla.",
+      "sources": [
+        "ace-dbpress"
+      ]
+    },
+    {
+      "id": "panca-piana",
+      "name": "Panca piana con bilanciere",
+      "aliases": [
+        "panca piana",
+        "bench press",
+        "distensioni su panca",
+        "panca bilanciere"
+      ],
+      "libraryIds": [
+        "Barbell_Bench_Press_-_Medium_Grip"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+      "setup": [
+        "Sdraiati con gli occhi sotto la barra, piedi ben piantati a terra.",
+        "Stringi le scapole e abbassale, appoggiandole bene alla panca.",
+        "Presa un po' più larga delle spalle, pollici chiusi intorno alla barra, polsi dritti.",
+        "Con carichi impegnativi usa un assistente o i fermi di sicurezza."
+      ],
+      "steps": [
+        "Stacca la barra e portala sopra le spalle a braccia distese.",
+        "Scendi lentamente verso la parte bassa del petto, gomiti a circa 45 gradi dal busto.",
+        "Tocca il petto senza rimbalzare e spingi su, verso la posizione di partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Rimbalzo della barra sul petto.",
+          "fix": "Scendi controllato e appoggia, poi spingi."
+        },
+        {
+          "error": "Gomiti aperti a 90 gradi.",
+          "fix": "Chiudili a circa 45 gradi per proteggere la spalla."
+        },
+        {
+          "error": "Sedere che si alza dalla panca.",
+          "fix": "Testa, spalle e glutei restano appoggiati; i piedi spingono a terra."
+        },
+        {
+          "error": "Polsi piegati all'indietro.",
+          "fix": "Barra sopra il palmo, polsi in linea con gli avambracci."
+        }
+      ],
+      "cue": "Scapole strette, gomiti a 45 gradi, tocca e spingi.",
+      "feel": "Lavoro su petto, spalle davanti e tricipiti.",
+      "stop": "Fermati se senti dolore davanti alla spalla o ai polsi.",
+      "sources": [
+        "ace-dbpress"
+      ]
+    },
+    {
+      "id": "pectoral-machine",
+      "name": "Pectoral machine (butterfly)",
+      "aliases": [
+        "pectoral machine",
+        "butterfly",
+        "pec deck",
+        "croci alla macchina"
+      ],
+      "libraryIds": [
+        "Butterfly"
+      ],
+      "kind": "macchina",
+      "muscles": "Pettorali, deltoidi anteriori",
+      "setup": [
+        "Regola il sedile in modo che, con le mani sulle maniglie, i gomiti siano appena sotto le spalle.",
+        "Regola la partenza in modo che le braccia aperte non vadano dietro la linea del corpo.",
+        "Schiena e spalle appoggiate, petto aperto."
+      ],
+      "steps": [
+        "Porta le maniglie una verso l'altra davanti al petto, con i gomiti leggermente piegati e fermi.",
+        "Stringi il petto un istante quando le mani si avvicinano.",
+        "Riapri lentamente fino alla posizione di partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Apertura eccessiva, con le braccia dietro il corpo.",
+          "fix": "Fermati quando le braccia sono in linea con il petto: oltre si carica la spalla."
+        },
+        {
+          "error": "Spalle che si staccano dallo schienale.",
+          "fix": "Tieni le spalle indietro e appoggiate per tutta la serie."
+        },
+        {
+          "error": "Piegare i gomiti e trasformarlo in una spinta.",
+          "fix": "L'angolo del gomito resta lo stesso dall'inizio alla fine."
+        }
+      ],
+      "cue": "Gomiti morbidi e fermi, abbraccia un albero.",
+      "feel": "Lavoro al centro del petto.",
+      "stop": "Fermati se senti dolore davanti alla spalla in apertura.",
+      "sources": [
+        "lf-pec",
+        "lf-fly"
+      ]
+    },
+    {
+      "id": "piegamenti",
+      "name": "Piegamenti sulle braccia (flessioni)",
+      "aliases": [
+        "piegamenti",
+        "flessioni",
+        "push up",
+        "piegamenti sulle braccia"
+      ],
+      "libraryIds": [
+        "Pushups"
+      ],
+      "kind": "corpo libero",
+      "muscles": "Pettorali, tricipiti, deltoidi anteriori, addominali",
+      "setup": [
+        "Mani a terra poco più larghe delle spalle, spalle sopra le mani.",
+        "Corpo dritto dalla testa ai talloni, addome e glutei contratti.",
+        "Per iniziare puoi appoggiare le ginocchia o le mani su una panca."
+      ],
+      "steps": [
+        "Scendi lentamente con il corpo rigido finché il petto arriva vicino a terra.",
+        "Gomiti a circa 45 gradi dal busto.",
+        "Spingi il pavimento lontano e torna su a braccia distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Schiena che cede o sedere alto.",
+          "fix": "Corpo come una tavola; se non ci riesci, appoggia le ginocchia."
+        },
+        {
+          "error": "Gomiti aperti a 90 gradi.",
+          "fix": "Chiudili verso il busto."
+        },
+        {
+          "error": "Testa che va avanti verso terra.",
+          "fix": "Collo in linea con la schiena, sguardo poco avanti alle mani."
+        }
+      ],
+      "cue": "Corpo rigido, gomiti a 45 gradi, spingi via il pavimento.",
+      "feel": "Lavoro su petto, braccia e addome.",
+      "stop": "Fermati se senti dolore ai polsi o alla spalla.",
+      "sources": [
+        "ace-pushup"
+      ]
+    },
+    {
+      "id": "plank",
+      "name": "Plank",
+      "aliases": [
+        "plank",
+        "tenuta",
+        "plank sugli avambracci"
+      ],
+      "libraryIds": [
+        "Plank"
+      ],
+      "kind": "corpo libero",
+      "muscles": "Addominali, muscoli del tronco",
+      "setup": [
+        "A pancia in giù, gomiti sotto le spalle, avambracci a terra.",
+        "Gambe distese, punte dei piedi a terra."
+      ],
+      "steps": [
+        "Solleva il corpo contraendo addome, glutei e cosce.",
+        "Tieni una linea dritta dalla testa ai talloni.",
+        "Respira normalmente per tutto il tempo indicato, poi scendi con controllo."
+      ],
+      "mistakes": [
+        {
+          "error": "Bacino che cede verso il basso.",
+          "fix": "Stringi glutei e addome; se non ci riesci, accorcia la tenuta o appoggia le ginocchia."
+        },
+        {
+          "error": "Sedere troppo alto.",
+          "fix": "Abbassalo fino alla linea testa-talloni."
+        },
+        {
+          "error": "Trattenere il fiato.",
+          "fix": "Respira corto e regolare."
+        }
+      ],
+      "cue": "Linea dritta, glutei stretti, respira.",
+      "feel": "Lavoro sull'addome, nessun dolore lombare.",
+      "stop": "Fermati se senti dolore nella zona lombare.",
+      "sources": [
+        "ace-plank"
+      ]
+    },
+    {
+      "id": "polpacci-in-piedi",
+      "name": "Polpacci in piedi (calf in piedi)",
+      "aliases": [
+        "calf in piedi",
+        "polpacci in piedi",
+        "standing calf"
+      ],
+      "libraryIds": [
+        "Standing_Calf_Raises"
+      ],
+      "kind": "macchina",
+      "muscles": "Polpacci",
+      "setup": [
+        "Regola l'altezza dei cuscinetti in modo che appoggino sulle spalle con le ginocchia quasi distese.",
+        "Avampiede sul bordo della pedana, talloni liberi.",
+        "Busto dritto, addome contratto."
+      ],
+      "steps": [
+        "Sali sulle punte il più possibile.",
+        "Tieni un secondo in alto.",
+        "Scendi lentamente sotto il livello della pedana, fino all'allungamento."
+      ],
+      "mistakes": [
+        {
+          "error": "Piegare le ginocchia per spingere.",
+          "fix": "Ginocchia quasi distese e ferme."
+        },
+        {
+          "error": "Schiena che si incurva sotto il carico.",
+          "fix": "Busto verticale e addome contratto; riduci il peso se serve."
+        },
+        {
+          "error": "Ripetizioni veloci.",
+          "fix": "Pausa in alto e in basso, discesa lenta."
+        }
+      ],
+      "cue": "Ginocchia ferme, su in punta, giù lento.",
+      "feel": "Lavoro nei polpacci, nessun peso sulla schiena.",
+      "stop": "Fermati se senti dolore alla schiena o al tendine d'Achille.",
+      "sources": [
+        "lf-calf",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "polpacci-seduto",
+      "name": "Polpacci da seduto (calf seduto)",
+      "aliases": [
+        "calf seduto",
+        "polpacci seduto",
+        "seated calf"
+      ],
+      "libraryIds": [
+        "Seated_Calf_Raise"
+      ],
+      "kind": "macchina",
+      "muscles": "Polpacci (soprattutto soleo)",
+      "setup": [
+        "Avampiede sulla pedana, talloni liberi.",
+        "Regola il cuscinetto in modo che appoggi sulla parte bassa delle cosce, vicino alle ginocchia.",
+        "Sblocca la leva di sicurezza solo quando sei in posizione."
+      ],
+      "steps": [
+        "Sali sulle punte il più possibile.",
+        "Tieni un secondo in alto.",
+        "Scendi lentamente fino a sentire l'allungamento, poi riparti."
+      ],
+      "mistakes": [
+        {
+          "error": "Mezze ripetizioni rimbalzando.",
+          "fix": "Usa tutta l'escursione, con una pausa in basso e una in alto."
+        },
+        {
+          "error": "Peso spinto con le mani o con il busto.",
+          "fix": "Mani appoggiate e busto fermo: si muove solo la caviglia."
+        },
+        {
+          "error": "Dimenticare la sicura alla fine.",
+          "fix": "Rimetti la leva prima di togliere i piedi."
+        }
+      ],
+      "cue": "Su in punta, tieni, giù fino in fondo.",
+      "feel": "Bruciore nella parte bassa del polpaccio.",
+      "stop": "Fermati se senti dolore al tendine d'Achille.",
+      "sources": [
+        "lf-calf",
+        "matrix-uso"
+      ]
+    },
+    {
+      "id": "pulley",
+      "name": "Pulley basso (rematore seduto ai cavi)",
+      "aliases": [
+        "pulley",
+        "pulley basso",
+        "rematore ai cavi",
+        "seated row",
+        "low row cavi"
+      ],
+      "libraryIds": [
+        "Seated_Cable_Rows"
+      ],
+      "kind": "cavi",
+      "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+      "setup": [
+        "Siediti con i piedi sulle pedane e le ginocchia leggermente piegate.",
+        "Afferra la maniglia e siediti dritto, schiena neutra e petto aperto.",
+        "Allontanati quanto basta perché il peso resti sollevato anche a braccia distese."
+      ],
+      "steps": [
+        "Tira la maniglia verso l'ombelico portando i gomiti indietro vicino ai fianchi.",
+        "Stringi le scapole un istante a fine movimento.",
+        "Torna avanti lentamente distendendo le braccia, senza far curvare la schiena."
+      ],
+      "mistakes": [
+        {
+          "error": "Usare il busto come leva, avanti e indietro.",
+          "fix": "Il busto resta quasi verticale: si muovono braccia e scapole."
+        },
+        {
+          "error": "Schiena che si arrotonda in avanti.",
+          "fix": "Petto in fuori anche nel ritorno; se non ci riesci, riduci il peso."
+        },
+        {
+          "error": "Spalle che salgono verso le orecchie.",
+          "fix": "Tieni le spalle basse e lontane dalle orecchie per tutta la serie."
+        }
+      ],
+      "cue": "Petto alto, gomiti indietro, stringi le scapole.",
+      "feel": "Lavoro al centro e ai lati della schiena.",
+      "stop": "Fermati se senti dolore lombare o alla spalla.",
+      "sources": [
+        "lf-row",
+        "matrix-ultra"
+      ]
+    },
+    {
+      "id": "pushdown",
+      "name": "Push down ai cavi (tricipiti)",
+      "aliases": [
+        "push down",
+        "pushdown",
+        "tricipiti ai cavi",
+        "tricipiti corda",
+        "spinte in basso"
+      ],
+      "libraryIds": [
+        "Triceps_Pushdown",
+        "Triceps_Pushdown_-_Rope_Attachment"
+      ],
+      "kind": "cavi",
+      "muscles": "Tricipiti",
+      "setup": [
+        "Carrucola in alto, sopra la testa, con barra o corda.",
+        "In piedi davanti al cavo, piedi alla larghezza delle anche o uno avanti.",
+        "Gomiti vicino ai fianchi, spalle basse, busto quasi verticale."
+      ],
+      "steps": [
+        "Distendi i gomiti spingendo verso il basso.",
+        "Fermati appena prima di bloccare i gomiti; con la corda apri leggermente le mani in fondo.",
+        "Risali lentamente finché gli avambracci sono circa paralleli al pavimento."
+      ],
+      "mistakes": [
+        {
+          "error": "Gomiti che vanno avanti e indietro.",
+          "fix": "Tienili incollati ai fianchi: se si muovono lavorano spalle e dorsali."
+        },
+        {
+          "error": "Piegarsi in avanti con tutto il busto.",
+          "fix": "Busto quasi dritto, addome contratto."
+        },
+        {
+          "error": "Polsi che si piegano.",
+          "fix": "Polsi in linea con l'avambraccio."
+        }
+      ],
+      "cue": "Gomiti incollati, spingi giù, risali piano.",
+      "feel": "Lavoro sul retro del braccio.",
+      "stop": "Fermati se senti dolore al gomito.",
+      "sources": [
+        "ace-pushdown"
+      ]
+    },
+    {
+      "id": "rematore-bilanciere",
+      "name": "Rematore con bilanciere",
+      "aliases": [
+        "rematore bilanciere",
+        "bent over row",
+        "rematore busto flesso"
+      ],
+      "libraryIds": [
+        "Bent_Over_Barbell_Row"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+      "setup": [
+        "Prendi la barra con i palmi verso di te, poco più larga delle spalle.",
+        "Piegati in avanti dalle anche con la schiena dritta e le ginocchia leggermente piegate.",
+        "Busto inclinato circa a 45 gradi o poco più, braccia distese."
+      ],
+      "steps": [
+        "Tira la barra verso l'ombelico portando i gomiti indietro.",
+        "Stringi le scapole un istante.",
+        "Scendi lentamente a braccia distese mantenendo la stessa inclinazione."
+      ],
+      "mistakes": [
+        {
+          "error": "Raddrizzare il busto a ogni ripetizione.",
+          "fix": "Il busto resta fermo; se ti alzi, il peso è troppo."
+        },
+        {
+          "error": "Schiena curva.",
+          "fix": "Petto in fuori, addome contratto."
+        },
+        {
+          "error": "Tirare con le braccia e non con la schiena.",
+          "fix": "Pensa a portare i gomiti verso il soffitto."
+        }
+      ],
+      "cue": "Busto fermo, gomiti indietro, barra all'ombelico.",
+      "feel": "Lavoro su tutta la schiena alta.",
+      "stop": "Fermati se senti dolore lombare.",
+      "sources": [
+        "ace-row"
+      ]
+    },
+    {
+      "id": "rematore-manubrio",
+      "name": "Rematore con manubrio",
+      "aliases": [
+        "rematore manubrio",
+        "rematore a un braccio",
+        "one arm row"
+      ],
+      "libraryIds": [
+        "One-Arm_Dumbbell_Row"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Dorsali, romboidi, deltoidi posteriori, bicipiti",
+      "setup": [
+        "Appoggia ginocchio e mano dello stesso lato su una panca: mano sotto la spalla, ginocchio sotto l'anca.",
+        "Schiena piatta, testa in linea, addome contratto.",
+        "Manubrio nell'altra mano, braccio disteso verso terra."
+      ],
+      "steps": [
+        "Tira il manubrio verso il fianco tenendo il braccio vicino al corpo.",
+        "Sali finché riesci senza ruotare il busto.",
+        "Scendi lentamente fino a braccio disteso."
+      ],
+      "mistakes": [
+        {
+          "error": "Ruotare il busto per alzare di più.",
+          "fix": "Spalle e bacino restano paralleli al pavimento."
+        },
+        {
+          "error": "Gomito che si apre lontano dal corpo.",
+          "fix": "Fallo scorrere lungo il fianco."
+        },
+        {
+          "error": "Spalla che scende verso terra in basso.",
+          "fix": "Tieni la spalla in posizione anche a braccio disteso."
+        }
+      ],
+      "cue": "Busto fermo, gomito al fianco, scendi piano.",
+      "feel": "Lavoro sul lato della schiena del braccio che tira.",
+      "stop": "Fermati se senti dolore alla schiena o alla spalla.",
+      "sources": [
+        "ace-sarow"
+      ]
+    },
+    {
+      "id": "reverse-fly-macchina",
+      "name": "Reverse fly alla macchina (deltoidi posteriori)",
+      "aliases": [
+        "reverse fly",
+        "rear delt",
+        "croci inverse macchina",
+        "deltoidi posteriori macchina"
+      ],
+      "libraryIds": [
+        "Reverse_Machine_Flyes"
+      ],
+      "kind": "macchina",
+      "muscles": "Deltoidi posteriori, trapezio, romboidi",
+      "setup": [
+        "Siediti rivolto verso la macchina, petto sul cuscino.",
+        "Regola il sedile in modo che le maniglie siano all'altezza delle spalle.",
+        "Porta le maniglie nella posizione di partenza per il movimento all'indietro."
+      ],
+      "steps": [
+        "Con le braccia quasi distese, apri all'indietro fino a portarle in linea con le spalle.",
+        "Tieni un istante.",
+        "Torna lentamente avanti."
+      ],
+      "mistakes": [
+        {
+          "error": "Stringere troppo le scapole e alzare le spalle.",
+          "fix": "Spalle basse: il movimento è delle braccia che si aprono."
+        },
+        {
+          "error": "Peso troppo alto con strappi.",
+          "fix": "È un muscolo piccolo: carichi leggeri, movimento lento."
+        },
+        {
+          "error": "Staccare il petto dal cuscino.",
+          "fix": "Il petto resta appoggiato per tutta la serie."
+        }
+      ],
+      "cue": "Spalle basse, apri le braccia, petto appoggiato.",
+      "feel": "Lavoro dietro le spalle.",
+      "stop": "Fermati se senti dolore nella spalla.",
+      "sources": [
+        "lf-fly"
+      ]
+    },
+    {
+      "id": "row-macchina",
+      "name": "Rematore alla macchina (low row)",
+      "aliases": [
+        "low row",
+        "rematore macchina",
+        "row macchina",
+        "iso row"
+      ],
+      "libraryIds": [
+        "Leverage_Iso_Row"
+      ],
+      "kind": "macchina",
+      "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+      "setup": [
+        "Regola il sedile in modo che la parte alta del cuscino per il petto arrivi a metà petto.",
+        "Regola il cuscino del petto per arrivare alle maniglie a braccia distese.",
+        "Piedi ben appoggiati a terra o sulle pedane."
+      ],
+      "steps": [
+        "Petto sul cuscino, tira le maniglie portando i gomiti indietro.",
+        "Stringi le scapole un istante.",
+        "Torna lentamente a braccia distese senza staccare il petto."
+      ],
+      "mistakes": [
+        {
+          "error": "Staccare il petto dal cuscino per tirare di più.",
+          "fix": "Il petto resta appoggiato: se si stacca il peso è troppo."
+        },
+        {
+          "error": "Tirare solo con le braccia.",
+          "fix": "Pensa a portare indietro i gomiti, non le mani."
+        },
+        {
+          "error": "Collo proteso in avanti.",
+          "fix": "Testa in linea con la schiena, sguardo avanti."
+        }
+      ],
+      "cue": "Petto appoggiato, gomiti indietro, scapole strette.",
+      "feel": "Lavoro tra le scapole e ai lati della schiena.",
+      "stop": "Fermati se senti dolore alla spalla o al gomito.",
+      "sources": [
+        "lf-row",
+        "matrix-ultra"
+      ]
+    },
+    {
+      "id": "shoulder-press-macchina",
+      "name": "Shoulder press alla macchina",
+      "aliases": [
+        "shoulder press",
+        "lento alla macchina",
+        "spinte spalle macchina"
+      ],
+      "libraryIds": [
+        "Machine_Shoulder_Military_Press",
+        "Leverage_Shoulder_Press"
+      ],
+      "kind": "macchina",
+      "muscles": "Deltoidi, tricipiti",
+      "setup": [
+        "Regola il sedile in modo che le maniglie siano all'altezza delle spalle o poco sopra.",
+        "Schiena, spalle e testa appoggiate, piedi a terra.",
+        "Se la macchina ha le maniglie neutre (palmi che si guardano), usale se hai poca mobilità alle spalle."
+      ],
+      "steps": [
+        "Spingi verso l'alto espirando, fino a braccia quasi distese.",
+        "Non bloccare i gomiti in alto.",
+        "Torna giù lentamente fino alla partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Schiena che si inarca staccandosi dallo schienale.",
+          "fix": "Contrai l'addome e tieni la zona lombare appoggiata; riduci il peso se serve."
+        },
+        {
+          "error": "Sedile troppo basso, con le mani molto sotto le spalle.",
+          "fix": "Alza il sedile: la partenza troppo bassa forza la spalla."
+        },
+        {
+          "error": "Spalle che salgono verso le orecchie.",
+          "fix": "Spingi le mani verso l'alto tenendo il collo lungo."
+        }
+      ],
+      "cue": "Schiena appoggiata, spingi in alto, collo lungo.",
+      "feel": "Lavoro sulle spalle e sul retro delle braccia.",
+      "stop": "Fermati se senti dolore dentro la spalla o un pizzico in alto.",
+      "sources": [
+        "lf-sp",
+        "matrix-ultra"
+      ]
+    },
+    {
+      "id": "squat-bilanciere",
+      "name": "Squat con bilanciere",
+      "aliases": [
+        "squat",
+        "back squat",
+        "squat bilanciere",
+        "accosciata"
+      ],
+      "libraryIds": [
+        "Barbell_Squat",
+        "Barbell_Full_Squat"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Quadricipiti, glutei, femorali, muscoli del tronco",
+      "setup": [
+        "Bilanciere nel rack poco sotto l'altezza delle spalle, fermi di sicurezza poco sotto il punto più basso che raggiungi.",
+        "Mettiti sotto la barra e appoggiala sulla parte alta della schiena, non sulle vertebre del collo.",
+        "Mani un po' più larghe delle spalle, scapole strette, esci dal rack con due o tre passi corti.",
+        "Piedi alla larghezza delle spalle o poco più, punte leggermente in fuori."
+      ],
+      "steps": [
+        "Fai un respiro profondo e contrai l'addome.",
+        "Scendi piegando insieme anche e ginocchia, con le ginocchia che seguono la direzione delle punte.",
+        "Arriva almeno con le cosce parallele al pavimento, se mantieni la schiena neutra.",
+        "Spingi il pavimento con tutto il piede e risali, espirando verso la fine."
+      ],
+      "mistakes": [
+        {
+          "error": "Discesa troppo veloce con rimbalzo in fondo.",
+          "fix": "Scendi contando fino a 3 e, se serve, fai una piccola pausa prima di risalire."
+        },
+        {
+          "error": "Schiena che si arrotonda in basso.",
+          "fix": "Petto alto e scapole strette; scendi solo fin dove la schiena resta neutra."
+        },
+        {
+          "error": "Ginocchia che cadono verso l'interno.",
+          "fix": "Spingi le ginocchia verso l'esterno, in linea con le punte."
+        },
+        {
+          "error": "Talloni che si alzano.",
+          "fix": "Peso su tutto il piede; prova a allargare un po' i piedi o lavora sulla mobilità delle caviglie."
+        },
+        {
+          "error": "Il sedere sale prima delle spalle.",
+          "fix": "Risali con petto e anche insieme, pensando a spingere la schiena contro la barra."
+        }
+      ],
+      "cue": "Respira e contrai, ginocchia sulle punte, petto alto.",
+      "feel": "Lavoro su cosce e glutei, schiena stabile.",
+      "stop": "Fermati se senti dolore lombare, al ginocchio, o se la barra ti fa male al collo.",
+      "sources": [
+        "ace-squat",
+        "acsm-squat",
+        "nsca-squat",
+        "nasm-sqdl"
+      ]
+    },
+    {
+      "id": "squat-multipower",
+      "name": "Squat al multipower (Smith machine)",
+      "aliases": [
+        "multipower",
+        "smith machine",
+        "squat multipower",
+        "squat al multipower"
+      ],
+      "libraryIds": [
+        "Smith_Machine_Squat"
+      ],
+      "kind": "macchina",
+      "muscles": "Quadricipiti, glutei, femorali",
+      "setup": [
+        "Regola i fermi di sicurezza poco sotto il punto più basso che raggiungi.",
+        "Bilanciere sulla parte alta della schiena, non sul collo.",
+        "Piedi leggermente avanti rispetto alla barra, larghezza spalle, punte un po' in fuori."
+      ],
+      "steps": [
+        "Ruota la barra per sganciarla e fai un respiro profondo contraendo l'addome.",
+        "Scendi piegando insieme anche e ginocchia, con la schiena neutra.",
+        "Risali spingendo con tutto il piede e riaggancia ruotando la barra a fine serie."
+      ],
+      "mistakes": [
+        {
+          "error": "Piedi esattamente sotto la barra.",
+          "fix": "Portali un po' avanti: la barra scorre dritta e così le ginocchia restano comode."
+        },
+        {
+          "error": "Fermi di sicurezza non regolati.",
+          "fix": "Mettili sempre: se non riesci a risalire, la barra si appoggia lì."
+        },
+        {
+          "error": "Schiena che si arrotonda in fondo.",
+          "fix": "Scendi meno e tieni il petto alto."
+        }
+      ],
+      "cue": "Fermi regolati, respira e contrai, petto alto.",
+      "feel": "Lavoro su cosce e glutei.",
+      "stop": "Fermati se senti dolore lombare o al ginocchio.",
+      "sources": [
+        "matrix-uso",
+        "acsm-squat"
+      ]
+    },
+    {
+      "id": "stacco-rumeno",
+      "name": "Stacco rumeno",
+      "aliases": [
+        "stacco rumeno",
+        "romanian deadlift",
+        "rdl",
+        "stacco a gambe semitese"
+      ],
+      "libraryIds": [
+        "Romanian_Deadlift"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Femorali, glutei, schiena",
+      "setup": [
+        "In piedi con la barra appoggiata alle cosce, presa poco più larga delle anche.",
+        "Piedi alla larghezza delle anche, ginocchia appena piegate.",
+        "Spalle indietro e in basso, sguardo verso il pavimento qualche metro avanti."
+      ],
+      "steps": [
+        "Spingi le anche indietro e lascia scendere la barra lungo le cosce.",
+        "Le ginocchia restano con la stessa leggera piega.",
+        "Scendi finché senti un buon allungamento dietro le cosce, di solito sotto il ginocchio, con la schiena dritta.",
+        "Riporta le anche avanti e torna in piedi tenendo la barra vicina."
+      ],
+      "mistakes": [
+        {
+          "error": "Piegare le ginocchia come in uno squat.",
+          "fix": "Ginocchia ferme: il movimento è solo delle anche che vanno indietro."
+        },
+        {
+          "error": "Schiena che si arrotonda per scendere di più.",
+          "fix": "Fermati dove la schiena resta neutra."
+        },
+        {
+          "error": "Guardarsi allo specchio alzando la testa.",
+          "fix": "Collo in linea con la schiena, sguardo verso il pavimento."
+        }
+      ],
+      "cue": "Anche indietro, ginocchia ferme, barra sulle gambe.",
+      "feel": "Allungamento e lavoro dietro le cosce e nei glutei.",
+      "stop": "Fermati se senti dolore lombare.",
+      "sources": [
+        "nsca-rdl",
+        "ace-rdl",
+        "nasm-rdl"
+      ]
+    },
+    {
+      "id": "stacco",
+      "name": "Stacco da terra",
+      "aliases": [
+        "stacco",
+        "stacco da terra",
+        "deadlift",
+        "stacco classico"
+      ],
+      "libraryIds": [
+        "Barbell_Deadlift"
+      ],
+      "kind": "pesi liberi",
+      "muscles": "Glutei, femorali, schiena, quadricipiti, presa",
+      "setup": [
+        "Piedi alla larghezza delle anche sotto la barra, che passa sopra la metà del piede.",
+        "Piegati con le anche indietro e afferra la barra appena fuori dalle gambe.",
+        "Tibie vicine alla barra, schiena neutra, spalle sopra o appena davanti alla barra.",
+        "Prima di tirare, irrigidisci le braccia come per piegare la barra intorno alle gambe."
+      ],
+      "steps": [
+        "Fai un respiro profondo e contrai l'addome.",
+        "Spingi il pavimento con i piedi e porta le anche in avanti, tenendo la barra a contatto con le gambe.",
+        "Arriva in piedi con anche e ginocchia distese, senza piegarti all'indietro.",
+        "Riporta giù la barra spingendo prima le anche indietro, poi piegando le ginocchia."
+      ],
+      "mistakes": [
+        {
+          "error": "Schiena che si arrotonda.",
+          "fix": "Riduci il peso e parti con il petto in fuori; la schiena resta dritta dall'inizio alla fine."
+        },
+        {
+          "error": "Barra lontana dal corpo.",
+          "fix": "Falla scorrere lungo tibie e cosce."
+        },
+        {
+          "error": "Strappo iniziale.",
+          "fix": "Togli il gioco alla barra prima di tirare, poi spingi in modo progressivo."
+        },
+        {
+          "error": "Piegarsi all'indietro in alto.",
+          "fix": "In alto stringi i glutei e fermati in piedi, dritto."
+        }
+      ],
+      "cue": "Barra sulle gambe, spingi il pavimento, schiena dritta.",
+      "feel": "Lavoro su glutei e retro coscia; la schiena regge ma non deve fare male.",
+      "stop": "Fermati se senti dolore lombare o una fitta alla schiena.",
+      "sources": [
+        "ace-deadlift",
+        "nasm-sqdl"
+      ]
+    },
+    {
+      "id": "trazioni",
+      "name": "Trazioni alla sbarra",
+      "aliases": [
+        "trazioni",
+        "pull up",
+        "trazioni alla sbarra",
+        "chin up",
+        "trazioni assistite"
+      ],
+      "libraryIds": [
+        "Pullups"
+      ],
+      "kind": "corpo libero",
+      "muscles": "Dorsali, bicipiti, muscoli tra le scapole",
+      "setup": [
+        "Afferra la sbarra con i palmi in avanti, poco più larghi delle spalle.",
+        "Parti appeso a braccia distese, addome contratto, gambe ferme.",
+        "Se non riesci ancora, usa la macchina con il contrappeso o un elastico: più peso di contrappeso significa più aiuto."
+      ],
+      "steps": [
+        "Abbassa le spalle e porta i gomiti verso i fianchi.",
+        "Sali finché il mento supera la sbarra.",
+        "Scendi lentamente fino a braccia distese."
+      ],
+      "mistakes": [
+        {
+          "error": "Slancio con le gambe.",
+          "fix": "Gambe ferme, addome contratto."
+        },
+        {
+          "error": "Mezze ripetizioni.",
+          "fix": "Parti da braccia distese e arriva col mento sopra la sbarra; usa l'assistenza se serve."
+        },
+        {
+          "error": "Spalle alle orecchie.",
+          "fix": "Il primo movimento è abbassare le spalle."
+        }
+      ],
+      "cue": "Spalle giù, gomiti ai fianchi, mento sopra.",
+      "feel": "Lavoro ai lati della schiena e nelle braccia.",
+      "stop": "Fermati se senti dolore alla spalla o al gomito.",
+      "sources": [
+        "lf-adc",
+        "lf-pd"
+      ]
+    },
+    {
+      "id": "tricipiti-macchina",
+      "name": "Tricipiti alla macchina",
+      "aliases": [
+        "tricipiti macchina",
+        "triceps machine",
+        "estensioni tricipiti macchina",
+        "dip machine"
+      ],
+      "libraryIds": [
+        "Machine_Triceps_Extension"
+      ],
+      "kind": "macchina",
+      "muscles": "Tricipiti",
+      "setup": [
+        "Regola il sedile in modo che il retro delle braccia appoggi tutto sul cuscino e i gomiti siano allineati al perno.",
+        "Afferra le maniglie con una presa salda.",
+        "Busto stabile, piedi bloccati se c'è il supporto."
+      ],
+      "steps": [
+        "Distendi i gomiti spingendo le maniglie.",
+        "Tieni un istante a braccia quasi distese.",
+        "Torna lentamente alla partenza."
+      ],
+      "mistakes": [
+        {
+          "error": "Gomiti che si staccano dal cuscino.",
+          "fix": "Il braccio resta fermo: si muove solo l'avambraccio."
+        },
+        {
+          "error": "Gomiti non allineati al perno.",
+          "fix": "Alza o abbassa il sedile finché coincidono."
+        },
+        {
+          "error": "Spingere con le spalle.",
+          "fix": "Spalle basse e ferme."
+        }
+      ],
+      "cue": "Braccia sul cuscino, distendi, torna piano.",
+      "feel": "Lavoro sul retro del braccio.",
+      "stop": "Fermati se senti dolore al gomito.",
+      "sources": [
+        "lf-te",
+        "lf-tp"
+      ]
+    }
+  ]
+}

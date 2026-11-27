@@ -1,0 +1,45 @@
+{
+  "id": "panca-inclinata-manubri",
+  "name": "Panca inclinata con manubri",
+  "aliases": [
+    "panca inclinata",
+    "inclinata manubri",
+    "distensioni inclinate"
+  ],
+  "libraryIds": [
+    "Incline_Dumbbell_Press"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Pettorali (parte alta), deltoidi anteriori, tricipiti",
+  "setup": [
+    "Inclina lo schienale tra 30 e 45 gradi.",
+    "Siediti con i manubri sulle cosce e portali alle spalle mentre ti appoggi.",
+    "Piedi a terra, scapole strette contro lo schienale."
+  ],
+  "steps": [
+    "Spingi i manubri in alto sopra la parte alta del petto.",
+    "Scendi lentamente ai lati del petto con i gomiti a circa 45 gradi.",
+    "Risali espirando senza bloccare i gomiti."
+  ],
+  "mistakes": [
+    {
+      "error": "Schienale troppo inclinato, oltre 45 gradi.",
+      "fix": "Abbassalo: più su diventa un esercizio per le spalle."
+    },
+    {
+      "error": "Schiena che si inarca molto.",
+      "fix": "Glutei e spalle appoggiati, addome contratto."
+    },
+    {
+      "error": "Gomiti aperti in fuori.",
+      "fix": "Chiudili un po' verso i fianchi."
+    }
+  ],
+  "cue": "Schienale a 30 gradi, scapole giù, gomiti a 45 gradi.",
+  "feel": "Lavoro sulla parte alta del petto.",
+  "stop": "Fermati se senti dolore alla spalla.",
+  "sources": [
+    "ace-dbpress"
+  ],
+  "reviewedBy": null
+}

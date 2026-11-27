@@ -1,0 +1,45 @@
+{
+  "id": "panca-manubri",
+  "name": "Panca piana con manubri",
+  "aliases": [
+    "panca manubri",
+    "distensioni manubri",
+    "dumbbell press"
+  ],
+  "libraryIds": [
+    "Dumbbell_Bench_Press"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+  "setup": [
+    "Siediti sulla panca con i manubri sulle cosce, poi sdraiati portandoli al petto.",
+    "Piedi a terra, scapole strette e appoggiate.",
+    "Spingi i manubri sopra il petto, polsi dritti."
+  ],
+  "steps": [
+    "Scendi lentamente portando i manubri ai lati del petto, gomiti a circa 45 gradi.",
+    "Fermati quando senti un leggero allungamento del petto.",
+    "Spingi su espirando, avvicinando un po' i manubri in alto."
+  ],
+  "mistakes": [
+    {
+      "error": "Scendere troppo, oltre la linea del petto.",
+      "fix": "Fermati quando le braccia sono poco sotto la linea della panca."
+    },
+    {
+      "error": "Manubri che sbandano.",
+      "fix": "Riduci il peso e muovili insieme, con calma."
+    },
+    {
+      "error": "Lasciar cadere i manubri a fine serie.",
+      "fix": "Riportali alle cosce mentre ti rialzi, o chiedi aiuto."
+    }
+  ],
+  "cue": "Scapole giù, scendi controllato, spingi insieme.",
+  "feel": "Lavoro su petto, spalle davanti e tricipiti.",
+  "stop": "Fermati se senti dolore alla spalla.",
+  "sources": [
+    "ace-dbpress"
+  ],
+  "reviewedBy": null
+}

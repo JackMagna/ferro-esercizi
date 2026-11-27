@@ -1,0 +1,46 @@
+{
+  "id": "abductor",
+  "name": "Abductor (apertura delle gambe)",
+  "aliases": [
+    "abductor",
+    "abduttori",
+    "macchina abduttori",
+    "apertura gambe"
+  ],
+  "libraryIds": [
+    "Thigh_Abductor"
+  ],
+  "kind": "macchina",
+  "muscles": "Glutei medi, abduttori",
+  "setup": [
+    "Siediti con i piedi sulle pedane e le ginocchia piegate circa a 90 gradi.",
+    "Regola la partenza in modo che le gambe partano chiuse ma con il peso già sollevato.",
+    "Schiena appoggiata, mani sulle maniglie."
+  ],
+  "steps": [
+    "Apri le gambe spingendo con l'esterno delle ginocchia contro i cuscinetti.",
+    "Tieni un istante in apertura.",
+    "Richiudi lentamente senza far sbattere il pacco pesi."
+  ],
+  "mistakes": [
+    {
+      "error": "Slancio con il busto avanti e indietro.",
+      "fix": "Busto fermo sullo schienale, si muovono solo le gambe."
+    },
+    {
+      "error": "Richiusura veloce.",
+      "fix": "Controlla il ritorno: è la parte che lavora di più."
+    },
+    {
+      "error": "Escursione troppo ampia che tira all'inguine.",
+      "fix": "Apri fin dove resti comodo e controlli il movimento."
+    }
+  ],
+  "cue": "Busto fermo, apri con le ginocchia, chiudi piano.",
+  "feel": "Lavoro sul lato esterno dei glutei.",
+  "stop": "Fermati se senti dolore all'anca.",
+  "sources": [
+    "lf-hab"
+  ],
+  "reviewedBy": null
+}

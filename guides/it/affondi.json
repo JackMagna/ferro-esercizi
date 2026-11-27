@@ -1,0 +1,45 @@
+{
+  "id": "affondi",
+  "name": "Affondi con manubri",
+  "aliases": [
+    "affondi",
+    "lunges",
+    "affondi in avanti",
+    "affondi manubri"
+  ],
+  "libraryIds": [
+    "Dumbbell_Lunges"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Quadricipiti, glutei, femorali",
+  "setup": [
+    "In piedi con i piedi uniti, manubri lungo i fianchi.",
+    "Spalle basse, addome contratto, sguardo avanti."
+  ],
+  "steps": [
+    "Fai un passo avanti appoggiando prima il tallone.",
+    "Scendi abbassando il bacino verso terra, finché la coscia davanti è circa parallela al pavimento.",
+    "Spingi con la gamba davanti per tornare alla posizione di partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Ginocchio davanti che cade verso l'interno.",
+      "fix": "Tienilo in linea con il secondo e terzo dito del piede."
+    },
+    {
+      "error": "Passo troppo corto.",
+      "fix": "Allunga il passo finché scendi senza alzare il tallone davanti."
+    },
+    {
+      "error": "Busto che oscilla di lato.",
+      "fix": "Addome contratto, movimento lento; prova prima senza pesi."
+    }
+  ],
+  "cue": "Passo lungo, scendi col bacino, ginocchio sul piede.",
+  "feel": "Lavoro su coscia e gluteo della gamba davanti.",
+  "stop": "Fermati se senti dolore al ginocchio.",
+  "sources": [
+    "ace-lunge"
+  ],
+  "reviewedBy": null
+}

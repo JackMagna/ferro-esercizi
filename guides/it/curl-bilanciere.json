@@ -1,0 +1,44 @@
+{
+  "id": "curl-bilanciere",
+  "name": "Curl con bilanciere",
+  "aliases": [
+    "curl bilanciere",
+    "barbell curl",
+    "bicipiti bilanciere"
+  ],
+  "libraryIds": [
+    "Barbell_Curl"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Bicipiti, avambracci",
+  "setup": [
+    "In piedi, barra con i palmi in avanti alla larghezza delle spalle.",
+    "Gomiti vicino ai fianchi, spalle basse, addome contratto."
+  ],
+  "steps": [
+    "Piega i gomiti portando la barra verso le spalle.",
+    "Stringi un istante in alto senza portare i gomiti avanti.",
+    "Scendi lentamente fino a braccia quasi distese."
+  ],
+  "mistakes": [
+    {
+      "error": "Dondolare il busto.",
+      "fix": "Busto fermo; se dondoli, il peso è troppo."
+    },
+    {
+      "error": "Gomiti che vanno avanti in alto.",
+      "fix": "Tienili ai fianchi."
+    },
+    {
+      "error": "Discesa lasciata cadere.",
+      "fix": "Scendi in 2 o 3 secondi."
+    }
+  ],
+  "cue": "Gomiti ai fianchi, su senza slancio, giù piano.",
+  "feel": "Lavoro sulla parte davanti del braccio.",
+  "stop": "Fermati se senti dolore al gomito o ai polsi.",
+  "sources": [
+    "lf-bc"
+  ],
+  "reviewedBy": null
+}

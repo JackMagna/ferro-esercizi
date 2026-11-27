@@ -1,0 +1,48 @@
+{
+  "id": "pulley",
+  "name": "Pulley basso (rematore seduto ai cavi)",
+  "aliases": [
+    "pulley",
+    "pulley basso",
+    "rematore ai cavi",
+    "seated row",
+    "low row cavi"
+  ],
+  "libraryIds": [
+    "Seated_Cable_Rows"
+  ],
+  "kind": "cavi",
+  "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+  "setup": [
+    "Siediti con i piedi sulle pedane e le ginocchia leggermente piegate.",
+    "Afferra la maniglia e siediti dritto, schiena neutra e petto aperto.",
+    "Allontanati quanto basta perché il peso resti sollevato anche a braccia distese."
+  ],
+  "steps": [
+    "Tira la maniglia verso l'ombelico portando i gomiti indietro vicino ai fianchi.",
+    "Stringi le scapole un istante a fine movimento.",
+    "Torna avanti lentamente distendendo le braccia, senza far curvare la schiena."
+  ],
+  "mistakes": [
+    {
+      "error": "Usare il busto come leva, avanti e indietro.",
+      "fix": "Il busto resta quasi verticale: si muovono braccia e scapole."
+    },
+    {
+      "error": "Schiena che si arrotonda in avanti.",
+      "fix": "Petto in fuori anche nel ritorno; se non ci riesci, riduci il peso."
+    },
+    {
+      "error": "Spalle che salgono verso le orecchie.",
+      "fix": "Tieni le spalle basse e lontane dalle orecchie per tutta la serie."
+    }
+  ],
+  "cue": "Petto alto, gomiti indietro, stringi le scapole.",
+  "feel": "Lavoro al centro e ai lati della schiena.",
+  "stop": "Fermati se senti dolore lombare o alla spalla.",
+  "sources": [
+    "lf-row",
+    "matrix-ultra"
+  ],
+  "reviewedBy": null
+}

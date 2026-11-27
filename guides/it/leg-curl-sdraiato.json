@@ -1,0 +1,46 @@
+{
+  "id": "leg-curl-sdraiato",
+  "name": "Leg curl sdraiato",
+  "aliases": [
+    "leg curl sdraiato",
+    "leg curl prono",
+    "femorali sdraiato"
+  ],
+  "libraryIds": [
+    "Lying_Leg_Curls"
+  ],
+  "kind": "macchina",
+  "muscles": "Femorali",
+  "setup": [
+    "Sdraiati a pancia in giù con le ginocchia appena fuori dal bordo della panca, allineate al perno.",
+    "Il cuscinetto va appena sopra i talloni, sul retro della caviglia.",
+    "Bacino e pancia appoggiati, mani sulle maniglie."
+  ],
+  "steps": [
+    "Piega le ginocchia portando i talloni verso i glutei.",
+    "Tieni un istante in alto.",
+    "Torna giù lentamente senza distendere di colpo le gambe."
+  ],
+  "mistakes": [
+    {
+      "error": "Bacino che si alza dalla panca.",
+      "fix": "Spingi il bacino contro il cuscino: se si alza il peso è troppo."
+    },
+    {
+      "error": "Schiena che si inarca.",
+      "fix": "Contrai leggermente addome e glutei per tenere il bacino fermo."
+    },
+    {
+      "error": "Ginocchia sulla panca e non sul bordo.",
+      "fix": "Scivola indietro finché le rotule sono appena fuori dal cuscino."
+    }
+  ],
+  "cue": "Bacino giù, talloni ai glutei, scendi piano.",
+  "feel": "Lavoro dietro la coscia, nessun fastidio lombare.",
+  "stop": "Fermati se senti crampi forti o dolore alla schiena.",
+  "sources": [
+    "lf-lc",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

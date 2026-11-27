@@ -1,0 +1,48 @@
+{
+  "id": "leg-extension",
+  "name": "Leg extension",
+  "aliases": [
+    "leg extension",
+    "estensioni gambe",
+    "quadricipiti macchina"
+  ],
+  "libraryIds": [
+    "Leg_Extensions"
+  ],
+  "kind": "macchina",
+  "muscles": "Quadricipiti",
+  "setup": [
+    "Regola lo schienale finché il ginocchio è allineato con il perno della macchina (di solito segnato da un bollino o da un colore).",
+    "Il cuscinetto per le gambe va appena sopra la caviglia, sul collo del piede, non sugli stinchi.",
+    "Se c'è la regolazione della partenza, scegli un angolo comodo per il ginocchio.",
+    "Schiena appoggiata, mani sulle maniglie laterali."
+  ],
+  "steps": [
+    "Distendi le gambe in modo controllato fino quasi alla distensione completa.",
+    "Tieni un istante in alto contraendo le cosce.",
+    "Torna giù lentamente senza far toccare il pacco pesi."
+  ],
+  "mistakes": [
+    {
+      "error": "Ginocchio non allineato al perno.",
+      "fix": "Sposta lo schienale: con il ginocchio fuori asse il movimento tira sull'articolazione."
+    },
+    {
+      "error": "Slancio e bacino che si solleva dal sedile.",
+      "fix": "Riduci il peso e tieniti alle maniglie: il movimento parte solo dal ginocchio."
+    },
+    {
+      "error": "Discesa lasciata cadere.",
+      "fix": "Scendi in 2 o 3 secondi, è metà del lavoro."
+    }
+  ],
+  "cue": "Ginocchio sul perno, sali e tieni, scendi piano.",
+  "feel": "Lavoro sulla parte davanti della coscia.",
+  "stop": "Fermati se senti dolore sotto la rotula o dentro il ginocchio.",
+  "sources": [
+    "lf-le",
+    "tg-selection",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

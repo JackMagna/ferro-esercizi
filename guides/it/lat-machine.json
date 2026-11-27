@@ -1,0 +1,53 @@
+{
+  "id": "lat-machine",
+  "name": "Lat machine (lat pulldown)",
+  "aliases": [
+    "lat machine",
+    "lat pulldown",
+    "lat avanti",
+    "trazioni alla lat",
+    "lat presa stretta"
+  ],
+  "libraryIds": [
+    "Wide-Grip_Lat_Pulldown",
+    "Close-Grip_Front_Lat_Pulldown"
+  ],
+  "kind": "cavi",
+  "muscles": "Dorsali, bicipiti, muscoli tra le scapole",
+  "setup": [
+    "Regola il rullo in modo che le cosce siano bloccate sotto, con i piedi a terra.",
+    "Afferra la barra un po' più larga delle spalle (presa larga) oppure con la maniglia stretta, poi siediti.",
+    "Busto leggermente inclinato indietro dai fianchi, petto in fuori."
+  ],
+  "steps": [
+    "Prima abbassa le spalle, poi tira la barra verso la parte alta del petto portando i gomiti verso i fianchi.",
+    "Tieni un istante con le scapole strette.",
+    "Torna su lentamente fino a braccia quasi distese, lasciando salire le spalle solo alla fine."
+  ],
+  "mistakes": [
+    {
+      "error": "Tirare dietro la nuca.",
+      "fix": "Porta la barra davanti, verso lo sterno: dietro la nuca stressa spalle e collo."
+    },
+    {
+      "error": "Dondolare indietro con il busto.",
+      "fix": "Tieni un'inclinazione fissa e riduci il peso: deve tirare la schiena, non lo slancio."
+    },
+    {
+      "error": "Spalle alle orecchie durante la tirata.",
+      "fix": "Parti abbassando le spalle e pensa a portare i gomiti in tasca."
+    },
+    {
+      "error": "Risalita lasciata andare.",
+      "fix": "Accompagna la barra su in 2 o 3 secondi."
+    }
+  ],
+  "cue": "Spalle giù, gomiti in tasca, barra al petto.",
+  "feel": "Lavoro ai lati della schiena, sotto le ascelle.",
+  "stop": "Fermati se senti dolore alla spalla o un pizzico al collo.",
+  "sources": [
+    "lf-pd",
+    "matrix-ultra"
+  ],
+  "reviewedBy": null
+}

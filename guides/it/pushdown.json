@@ -1,0 +1,48 @@
+{
+  "id": "pushdown",
+  "name": "Push down ai cavi (tricipiti)",
+  "aliases": [
+    "push down",
+    "pushdown",
+    "tricipiti ai cavi",
+    "tricipiti corda",
+    "spinte in basso"
+  ],
+  "libraryIds": [
+    "Triceps_Pushdown",
+    "Triceps_Pushdown_-_Rope_Attachment"
+  ],
+  "kind": "cavi",
+  "muscles": "Tricipiti",
+  "setup": [
+    "Carrucola in alto, sopra la testa, con barra o corda.",
+    "In piedi davanti al cavo, piedi alla larghezza delle anche o uno avanti.",
+    "Gomiti vicino ai fianchi, spalle basse, busto quasi verticale."
+  ],
+  "steps": [
+    "Distendi i gomiti spingendo verso il basso.",
+    "Fermati appena prima di bloccare i gomiti; con la corda apri leggermente le mani in fondo.",
+    "Risali lentamente finché gli avambracci sono circa paralleli al pavimento."
+  ],
+  "mistakes": [
+    {
+      "error": "Gomiti che vanno avanti e indietro.",
+      "fix": "Tienili incollati ai fianchi: se si muovono lavorano spalle e dorsali."
+    },
+    {
+      "error": "Piegarsi in avanti con tutto il busto.",
+      "fix": "Busto quasi dritto, addome contratto."
+    },
+    {
+      "error": "Polsi che si piegano.",
+      "fix": "Polsi in linea con l'avambraccio."
+    }
+  ],
+  "cue": "Gomiti incollati, spingi giù, risali piano.",
+  "feel": "Lavoro sul retro del braccio.",
+  "stop": "Fermati se senti dolore al gomito.",
+  "sources": [
+    "ace-pushdown"
+  ],
+  "reviewedBy": null
+}

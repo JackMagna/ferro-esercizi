@@ -1,0 +1,45 @@
+{
+  "id": "rematore-bilanciere",
+  "name": "Rematore con bilanciere",
+  "aliases": [
+    "rematore bilanciere",
+    "bent over row",
+    "rematore busto flesso"
+  ],
+  "libraryIds": [
+    "Bent_Over_Barbell_Row"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Dorsali, romboidi, trapezio, deltoidi posteriori, bicipiti",
+  "setup": [
+    "Prendi la barra con i palmi verso di te, poco più larga delle spalle.",
+    "Piegati in avanti dalle anche con la schiena dritta e le ginocchia leggermente piegate.",
+    "Busto inclinato circa a 45 gradi o poco più, braccia distese."
+  ],
+  "steps": [
+    "Tira la barra verso l'ombelico portando i gomiti indietro.",
+    "Stringi le scapole un istante.",
+    "Scendi lentamente a braccia distese mantenendo la stessa inclinazione."
+  ],
+  "mistakes": [
+    {
+      "error": "Raddrizzare il busto a ogni ripetizione.",
+      "fix": "Il busto resta fermo; se ti alzi, il peso è troppo."
+    },
+    {
+      "error": "Schiena curva.",
+      "fix": "Petto in fuori, addome contratto."
+    },
+    {
+      "error": "Tirare con le braccia e non con la schiena.",
+      "fix": "Pensa a portare i gomiti verso il soffitto."
+    }
+  ],
+  "cue": "Busto fermo, gomiti indietro, barra all'ombelico.",
+  "feel": "Lavoro su tutta la schiena alta.",
+  "stop": "Fermati se senti dolore lombare.",
+  "sources": [
+    "ace-row"
+  ],
+  "reviewedBy": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "leg-press-polpacci",
+  "name": "Polpacci alla leg press",
+  "aliases": [
+    "calf alla pressa",
+    "calf press",
+    "polpacci pressa"
+  ],
+  "libraryIds": [
+    "Calf_Press_On_The_Leg_Press_Machine"
+  ],
+  "kind": "macchina",
+  "muscles": "Polpacci",
+  "setup": [
+    "Siediti alla leg press con un carico più leggero di quello che usi per le gambe.",
+    "Appoggia solo l'avampiede sul bordo basso della pedana, talloni fuori.",
+    "Distendi le gambe lasciando le ginocchia appena morbide. Sulle presse a dischi lascia inserite le sicure se la macchina lo permette."
+  ],
+  "steps": [
+    "Spingi la pedana con la punta dei piedi, sollevando i talloni il più possibile.",
+    "Tieni un secondo in alto.",
+    "Torna indietro lentamente fino a sentire l'allungamento del polpaccio."
+  ],
+  "mistakes": [
+    {
+      "error": "Piegare e distendere le ginocchia per aiutarsi.",
+      "fix": "Le ginocchia restano ferme: si muove solo la caviglia."
+    },
+    {
+      "error": "Ripetizioni corte e veloci.",
+      "fix": "Usa tutta l'escursione, dall'allungamento alla punta, con una pausa in alto."
+    },
+    {
+      "error": "Piedi che scivolano dal bordo.",
+      "fix": "Appoggia bene tutta la parte sotto le dita e usa scarpe con suola che non scivola."
+    }
+  ],
+  "cue": "Ginocchia ferme, sali sulle punte, tieni un secondo.",
+  "feel": "Bruciore nei polpacci, nessun carico sulle ginocchia.",
+  "stop": "Fermati se il piede scivola o se senti dolore al tendine d'Achille.",
+  "sources": [
+    "lf-calf",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

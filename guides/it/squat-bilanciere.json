@@ -1,0 +1,60 @@
+{
+  "id": "squat-bilanciere",
+  "name": "Squat con bilanciere",
+  "aliases": [
+    "squat",
+    "back squat",
+    "squat bilanciere",
+    "accosciata"
+  ],
+  "libraryIds": [
+    "Barbell_Squat",
+    "Barbell_Full_Squat"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Quadricipiti, glutei, femorali, muscoli del tronco",
+  "setup": [
+    "Bilanciere nel rack poco sotto l'altezza delle spalle, fermi di sicurezza poco sotto il punto più basso che raggiungi.",
+    "Mettiti sotto la barra e appoggiala sulla parte alta della schiena, non sulle vertebre del collo.",
+    "Mani un po' più larghe delle spalle, scapole strette, esci dal rack con due o tre passi corti.",
+    "Piedi alla larghezza delle spalle o poco più, punte leggermente in fuori."
+  ],
+  "steps": [
+    "Fai un respiro profondo e contrai l'addome.",
+    "Scendi piegando insieme anche e ginocchia, con le ginocchia che seguono la direzione delle punte.",
+    "Arriva almeno con le cosce parallele al pavimento, se mantieni la schiena neutra.",
+    "Spingi il pavimento con tutto il piede e risali, espirando verso la fine."
+  ],
+  "mistakes": [
+    {
+      "error": "Discesa troppo veloce con rimbalzo in fondo.",
+      "fix": "Scendi contando fino a 3 e, se serve, fai una piccola pausa prima di risalire."
+    },
+    {
+      "error": "Schiena che si arrotonda in basso.",
+      "fix": "Petto alto e scapole strette; scendi solo fin dove la schiena resta neutra."
+    },
+    {
+      "error": "Ginocchia che cadono verso l'interno.",
+      "fix": "Spingi le ginocchia verso l'esterno, in linea con le punte."
+    },
+    {
+      "error": "Talloni che si alzano.",
+      "fix": "Peso su tutto il piede; prova a allargare un po' i piedi o lavora sulla mobilità delle caviglie."
+    },
+    {
+      "error": "Il sedere sale prima delle spalle.",
+      "fix": "Risali con petto e anche insieme, pensando a spingere la schiena contro la barra."
+    }
+  ],
+  "cue": "Respira e contrai, ginocchia sulle punte, petto alto.",
+  "feel": "Lavoro su cosce e glutei, schiena stabile.",
+  "stop": "Fermati se senti dolore lombare, al ginocchio, o se la barra ti fa male al collo.",
+  "sources": [
+    "ace-squat",
+    "acsm-squat",
+    "nsca-squat",
+    "nasm-sqdl"
+  ],
+  "reviewedBy": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lento-avanti",
+  "name": "Lento avanti con bilanciere in piedi",
+  "aliases": [
+    "lento avanti",
+    "military press",
+    "overhead press",
+    "lento in piedi"
+  ],
+  "libraryIds": [
+    "Standing_Military_Press"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Deltoidi, tricipiti, muscoli del tronco",
+  "setup": [
+    "Prendi la barra dal rack all'altezza delle spalle, presa poco più larga delle spalle.",
+    "Piedi alla larghezza delle anche, glutei e addome contratti.",
+    "Barra appoggiata sulla parte alta del petto, gomiti leggermente avanti."
+  ],
+  "steps": [
+    "Spingi la barra in verticale spostando appena la testa indietro per farla passare.",
+    "Quando la barra supera la fronte, riporta la testa sotto, con la barra sopra la nuca.",
+    "Scendi lentamente fino alle spalle."
+  ],
+  "mistakes": [
+    {
+      "error": "Inarcare molto la schiena.",
+      "fix": "Stringi glutei e addome; se non basta, il peso è troppo."
+    },
+    {
+      "error": "Barra che va in avanti.",
+      "fix": "Traiettoria verticale vicino al viso."
+    },
+    {
+      "error": "Spinta con le gambe senza volerlo.",
+      "fix": "Ginocchia ferme, salvo che il programma non preveda la spinta."
+    }
+  ],
+  "cue": "Glutei stretti, barra dritta, testa sotto in alto.",
+  "feel": "Lavoro su spalle e tricipiti, schiena stabile.",
+  "stop": "Fermati se senti dolore lombare o alla spalla.",
+  "sources": [
+    "lf-sp"
+  ],
+  "reviewedBy": null
+}

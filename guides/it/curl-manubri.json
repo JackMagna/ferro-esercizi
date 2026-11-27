@@ -1,0 +1,48 @@
+{
+  "id": "curl-manubri",
+  "name": "Curl con manubri (anche a martello)",
+  "aliases": [
+    "curl manubri",
+    "curl alternato",
+    "hammer curl",
+    "curl a martello"
+  ],
+  "libraryIds": [
+    "Dumbbell_Bicep_Curl",
+    "Dumbbell_Alternate_Bicep_Curl",
+    "Hammer_Curls"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Bicipiti, brachiale, avambracci",
+  "setup": [
+    "In piedi o seduto, manubri lungo i fianchi.",
+    "Palmi in avanti per il curl classico, palmi verso il corpo per il curl a martello.",
+    "Gomiti vicino ai fianchi, spalle basse."
+  ],
+  "steps": [
+    "Piega il gomito portando il manubrio verso la spalla.",
+    "Tieni un istante in alto.",
+    "Scendi lentamente; puoi alternare le braccia."
+  ],
+  "mistakes": [
+    {
+      "error": "Slancio con il busto o con la spalla.",
+      "fix": "Si muove solo l'avambraccio."
+    },
+    {
+      "error": "Gomiti che si spostano avanti.",
+      "fix": "Tienili fermi ai fianchi."
+    },
+    {
+      "error": "Polso piegato.",
+      "fix": "Polso dritto, in linea con l'avambraccio."
+    }
+  ],
+  "cue": "Gomito fermo, su e tieni, giù piano.",
+  "feel": "Lavoro sulla parte davanti del braccio.",
+  "stop": "Fermati se senti dolore al gomito.",
+  "sources": [
+    "lf-bc"
+  ],
+  "reviewedBy": null
+}

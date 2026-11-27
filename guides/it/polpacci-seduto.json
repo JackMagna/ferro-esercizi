@@ -1,0 +1,46 @@
+{
+  "id": "polpacci-seduto",
+  "name": "Polpacci da seduto (calf seduto)",
+  "aliases": [
+    "calf seduto",
+    "polpacci seduto",
+    "seated calf"
+  ],
+  "libraryIds": [
+    "Seated_Calf_Raise"
+  ],
+  "kind": "macchina",
+  "muscles": "Polpacci (soprattutto soleo)",
+  "setup": [
+    "Avampiede sulla pedana, talloni liberi.",
+    "Regola il cuscinetto in modo che appoggi sulla parte bassa delle cosce, vicino alle ginocchia.",
+    "Sblocca la leva di sicurezza solo quando sei in posizione."
+  ],
+  "steps": [
+    "Sali sulle punte il più possibile.",
+    "Tieni un secondo in alto.",
+    "Scendi lentamente fino a sentire l'allungamento, poi riparti."
+  ],
+  "mistakes": [
+    {
+      "error": "Mezze ripetizioni rimbalzando.",
+      "fix": "Usa tutta l'escursione, con una pausa in basso e una in alto."
+    },
+    {
+      "error": "Peso spinto con le mani o con il busto.",
+      "fix": "Mani appoggiate e busto fermo: si muove solo la caviglia."
+    },
+    {
+      "error": "Dimenticare la sicura alla fine.",
+      "fix": "Rimetti la leva prima di togliere i piedi."
+    }
+  ],
+  "cue": "Su in punta, tieni, giù fino in fondo.",
+  "feel": "Bruciore nella parte bassa del polpaccio.",
+  "stop": "Fermati se senti dolore al tendine d'Achille.",
+  "sources": [
+    "lf-calf",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

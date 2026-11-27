@@ -1,0 +1,51 @@
+{
+  "id": "panca-piana",
+  "name": "Panca piana con bilanciere",
+  "aliases": [
+    "panca piana",
+    "bench press",
+    "distensioni su panca",
+    "panca bilanciere"
+  ],
+  "libraryIds": [
+    "Barbell_Bench_Press_-_Medium_Grip"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Pettorali, deltoidi anteriori, tricipiti",
+  "setup": [
+    "Sdraiati con gli occhi sotto la barra, piedi ben piantati a terra.",
+    "Stringi le scapole e abbassale, appoggiandole bene alla panca.",
+    "Presa un po' più larga delle spalle, pollici chiusi intorno alla barra, polsi dritti.",
+    "Con carichi impegnativi usa un assistente o i fermi di sicurezza."
+  ],
+  "steps": [
+    "Stacca la barra e portala sopra le spalle a braccia distese.",
+    "Scendi lentamente verso la parte bassa del petto, gomiti a circa 45 gradi dal busto.",
+    "Tocca il petto senza rimbalzare e spingi su, verso la posizione di partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Rimbalzo della barra sul petto.",
+      "fix": "Scendi controllato e appoggia, poi spingi."
+    },
+    {
+      "error": "Gomiti aperti a 90 gradi.",
+      "fix": "Chiudili a circa 45 gradi per proteggere la spalla."
+    },
+    {
+      "error": "Sedere che si alza dalla panca.",
+      "fix": "Testa, spalle e glutei restano appoggiati; i piedi spingono a terra."
+    },
+    {
+      "error": "Polsi piegati all'indietro.",
+      "fix": "Barra sopra il palmo, polsi in linea con gli avambracci."
+    }
+  ],
+  "cue": "Scapole strette, gomiti a 45 gradi, tocca e spingi.",
+  "feel": "Lavoro su petto, spalle davanti e tricipiti.",
+  "stop": "Fermati se senti dolore davanti alla spalla o ai polsi.",
+  "sources": [
+    "ace-dbpress"
+  ],
+  "reviewedBy": null
+}

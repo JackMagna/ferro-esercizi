@@ -1,0 +1,47 @@
+{
+  "id": "squat-multipower",
+  "name": "Squat al multipower (Smith machine)",
+  "aliases": [
+    "multipower",
+    "smith machine",
+    "squat multipower",
+    "squat al multipower"
+  ],
+  "libraryIds": [
+    "Smith_Machine_Squat"
+  ],
+  "kind": "macchina",
+  "muscles": "Quadricipiti, glutei, femorali",
+  "setup": [
+    "Regola i fermi di sicurezza poco sotto il punto più basso che raggiungi.",
+    "Bilanciere sulla parte alta della schiena, non sul collo.",
+    "Piedi leggermente avanti rispetto alla barra, larghezza spalle, punte un po' in fuori."
+  ],
+  "steps": [
+    "Ruota la barra per sganciarla e fai un respiro profondo contraendo l'addome.",
+    "Scendi piegando insieme anche e ginocchia, con la schiena neutra.",
+    "Risali spingendo con tutto il piede e riaggancia ruotando la barra a fine serie."
+  ],
+  "mistakes": [
+    {
+      "error": "Piedi esattamente sotto la barra.",
+      "fix": "Portali un po' avanti: la barra scorre dritta e così le ginocchia restano comode."
+    },
+    {
+      "error": "Fermi di sicurezza non regolati.",
+      "fix": "Mettili sempre: se non riesci a risalire, la barra si appoggia lì."
+    },
+    {
+      "error": "Schiena che si arrotonda in fondo.",
+      "fix": "Scendi meno e tieni il petto alto."
+    }
+  ],
+  "cue": "Fermi regolati, respira e contrai, petto alto.",
+  "feel": "Lavoro su cosce e glutei.",
+  "stop": "Fermati se senti dolore lombare o al ginocchio.",
+  "sources": [
+    "matrix-uso",
+    "acsm-squat"
+  ],
+  "reviewedBy": null
+}

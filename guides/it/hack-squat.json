@@ -1,0 +1,45 @@
+{
+  "id": "hack-squat",
+  "name": "Hack squat",
+  "aliases": [
+    "hack squat",
+    "squat alla macchina inclinata"
+  ],
+  "libraryIds": [
+    "Hack_Squat"
+  ],
+  "kind": "macchina",
+  "muscles": "Quadricipiti, glutei",
+  "setup": [
+    "Spalle sotto i cuscinetti, schiena appoggiata allo schienale.",
+    "Piedi alla larghezza delle spalle a metà pedana, punte leggermente in fuori.",
+    "Distendi le gambe e sblocca le sicure solo quando sei stabile."
+  ],
+  "steps": [
+    "Scendi piegando le ginocchia, mantenendo la schiena appoggiata.",
+    "Arriva almeno con le cosce parallele alla pedana, se sei comodo.",
+    "Spingi con tutto il piede per tornare su, senza bloccare le ginocchia."
+  ],
+  "mistakes": [
+    {
+      "error": "Talloni che si alzano in basso.",
+      "fix": "Sposta i piedi un po' più in alto sulla pedana."
+    },
+    {
+      "error": "Ginocchia verso l'interno in risalita.",
+      "fix": "Spingi le ginocchia in linea con le punte."
+    },
+    {
+      "error": "Bacino che si stacca in fondo.",
+      "fix": "Scendi fin dove la schiena resta appoggiata."
+    }
+  ],
+  "cue": "Schiena appoggiata, ginocchia sulle punte, spingi dai talloni.",
+  "feel": "Lavoro sulle cosce e sui glutei.",
+  "stop": "Fermati se senti dolore al ginocchio o alla schiena.",
+  "sources": [
+    "matrix-uso",
+    "acsm-squat"
+  ],
+  "reviewedBy": null
+}

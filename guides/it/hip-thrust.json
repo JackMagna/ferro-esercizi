@@ -1,0 +1,47 @@
+{
+  "id": "hip-thrust",
+  "name": "Hip thrust e ponte per i glutei",
+  "aliases": [
+    "hip thrust",
+    "ponte glutei",
+    "glute bridge",
+    "spinte d'anca"
+  ],
+  "libraryIds": [
+    "Barbell_Hip_Thrust",
+    "Barbell_Glute_Bridge"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Glutei, femorali",
+  "setup": [
+    "Hip thrust: parte alta della schiena sul bordo di una panca. Ponte: sdraiato a terra.",
+    "Bilanciere sopra le anche, con un cuscinetto per proteggere le ossa del bacino.",
+    "Piedi alla larghezza delle anche, piantati a terra, a una distanza che in alto lascia le tibie verticali."
+  ],
+  "steps": [
+    "Contrai l'addome e spingi con i talloni sollevando il bacino.",
+    "In alto il corpo forma una linea dalle spalle alle ginocchia: stringi i glutei un istante.",
+    "Scendi lentamente senza appoggiare del tutto il peso."
+  ],
+  "mistakes": [
+    {
+      "error": "Inarcare la schiena in alto.",
+      "fix": "Fermati quando il bacino è in linea con il busto e tieni le costole basse."
+    },
+    {
+      "error": "Spingere con le punte.",
+      "fix": "Spingi dai talloni."
+    },
+    {
+      "error": "Piedi troppo vicini o lontani.",
+      "fix": "Regolali finché in alto le tibie sono verticali."
+    }
+  ],
+  "cue": "Costole basse, spingi dai talloni, stringi i glutei.",
+  "feel": "Lavoro nei glutei, non nella zona lombare.",
+  "stop": "Fermati se senti dolore lombare o il bilanciere preme troppo sul bacino.",
+  "sources": [
+    "ace-bridge"
+  ],
+  "reviewedBy": null
+}

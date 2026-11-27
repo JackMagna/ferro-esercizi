@@ -1,0 +1,46 @@
+{
+  "id": "reverse-fly-macchina",
+  "name": "Reverse fly alla macchina (deltoidi posteriori)",
+  "aliases": [
+    "reverse fly",
+    "rear delt",
+    "croci inverse macchina",
+    "deltoidi posteriori macchina"
+  ],
+  "libraryIds": [
+    "Reverse_Machine_Flyes"
+  ],
+  "kind": "macchina",
+  "muscles": "Deltoidi posteriori, trapezio, romboidi",
+  "setup": [
+    "Siediti rivolto verso la macchina, petto sul cuscino.",
+    "Regola il sedile in modo che le maniglie siano all'altezza delle spalle.",
+    "Porta le maniglie nella posizione di partenza per il movimento all'indietro."
+  ],
+  "steps": [
+    "Con le braccia quasi distese, apri all'indietro fino a portarle in linea con le spalle.",
+    "Tieni un istante.",
+    "Torna lentamente avanti."
+  ],
+  "mistakes": [
+    {
+      "error": "Stringere troppo le scapole e alzare le spalle.",
+      "fix": "Spalle basse: il movimento è delle braccia che si aprono."
+    },
+    {
+      "error": "Peso troppo alto con strappi.",
+      "fix": "È un muscolo piccolo: carichi leggeri, movimento lento."
+    },
+    {
+      "error": "Staccare il petto dal cuscino.",
+      "fix": "Il petto resta appoggiato per tutta la serie."
+    }
+  ],
+  "cue": "Spalle basse, apri le braccia, petto appoggiato.",
+  "feel": "Lavoro dietro le spalle.",
+  "stop": "Fermati se senti dolore nella spalla.",
+  "sources": [
+    "lf-fly"
+  ],
+  "reviewedBy": null
+}

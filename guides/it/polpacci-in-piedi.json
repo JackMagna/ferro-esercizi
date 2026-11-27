@@ -1,0 +1,46 @@
+{
+  "id": "polpacci-in-piedi",
+  "name": "Polpacci in piedi (calf in piedi)",
+  "aliases": [
+    "calf in piedi",
+    "polpacci in piedi",
+    "standing calf"
+  ],
+  "libraryIds": [
+    "Standing_Calf_Raises"
+  ],
+  "kind": "macchina",
+  "muscles": "Polpacci",
+  "setup": [
+    "Regola l'altezza dei cuscinetti in modo che appoggino sulle spalle con le ginocchia quasi distese.",
+    "Avampiede sul bordo della pedana, talloni liberi.",
+    "Busto dritto, addome contratto."
+  ],
+  "steps": [
+    "Sali sulle punte il più possibile.",
+    "Tieni un secondo in alto.",
+    "Scendi lentamente sotto il livello della pedana, fino all'allungamento."
+  ],
+  "mistakes": [
+    {
+      "error": "Piegare le ginocchia per spingere.",
+      "fix": "Ginocchia quasi distese e ferme."
+    },
+    {
+      "error": "Schiena che si incurva sotto il carico.",
+      "fix": "Busto verticale e addome contratto; riduci il peso se serve."
+    },
+    {
+      "error": "Ripetizioni veloci.",
+      "fix": "Pausa in alto e in basso, discesa lenta."
+    }
+  ],
+  "cue": "Ginocchia ferme, su in punta, giù lento.",
+  "feel": "Lavoro nei polpacci, nessun peso sulla schiena.",
+  "stop": "Fermati se senti dolore alla schiena o al tendine d'Achille.",
+  "sources": [
+    "lf-calf",
+    "matrix-uso"
+  ],
+  "reviewedBy": null
+}

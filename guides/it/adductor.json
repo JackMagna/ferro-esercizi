@@ -1,0 +1,47 @@
+{
+  "id": "adductor",
+  "name": "Adductor (chiusura delle gambe)",
+  "aliases": [
+    "adductor",
+    "adduttori",
+    "macchina adduttori",
+    "chiusura gambe"
+  ],
+  "libraryIds": [
+    "Thigh_Adductor",
+    "Cable_Hip_Adduction"
+  ],
+  "kind": "macchina",
+  "muscles": "Adduttori (interno coscia)",
+  "setup": [
+    "Siediti con i piedi sulle pedane e le ginocchia piegate circa a 90 gradi.",
+    "Regola la partenza con un'apertura comoda: senti un leggero allungamento all'interno coscia, non dolore.",
+    "Schiena appoggiata, mani sulle maniglie."
+  ],
+  "steps": [
+    "Chiudi le gambe spingendo con l'interno delle ginocchia.",
+    "Tieni un istante a gambe chiuse.",
+    "Riapri lentamente fino alla partenza."
+  ],
+  "mistakes": [
+    {
+      "error": "Apertura di partenza troppo ampia.",
+      "fix": "Inizia con un'apertura media e aumentala nelle settimane: l'inguine si strappa facilmente."
+    },
+    {
+      "error": "Riapertura lasciata andare.",
+      "fix": "Accompagna il ritorno in 2 o 3 secondi."
+    },
+    {
+      "error": "Bacino che scivola in avanti.",
+      "fix": "Siediti in fondo al sedile e tieniti alle maniglie."
+    }
+  ],
+  "cue": "Apertura comoda, chiudi e tieni, riapri piano.",
+  "feel": "Lavoro all'interno della coscia.",
+  "stop": "Fermati se senti una fitta all'inguine.",
+  "sources": [
+    "lf-had"
+  ],
+  "reviewedBy": null
+}

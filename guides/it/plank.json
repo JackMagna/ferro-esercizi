@@ -1,0 +1,44 @@
+{
+  "id": "plank",
+  "name": "Plank",
+  "aliases": [
+    "plank",
+    "tenuta",
+    "plank sugli avambracci"
+  ],
+  "libraryIds": [
+    "Plank"
+  ],
+  "kind": "corpo libero",
+  "muscles": "Addominali, muscoli del tronco",
+  "setup": [
+    "A pancia in giù, gomiti sotto le spalle, avambracci a terra.",
+    "Gambe distese, punte dei piedi a terra."
+  ],
+  "steps": [
+    "Solleva il corpo contraendo addome, glutei e cosce.",
+    "Tieni una linea dritta dalla testa ai talloni.",
+    "Respira normalmente per tutto il tempo indicato, poi scendi con controllo."
+  ],
+  "mistakes": [
+    {
+      "error": "Bacino che cede verso il basso.",
+      "fix": "Stringi glutei e addome; se non ci riesci, accorcia la tenuta o appoggia le ginocchia."
+    },
+    {
+      "error": "Sedere troppo alto.",
+      "fix": "Abbassalo fino alla linea testa-talloni."
+    },
+    {
+      "error": "Trattenere il fiato.",
+      "fix": "Respira corto e regolare."
+    }
+  ],
+  "cue": "Linea dritta, glutei stretti, respira.",
+  "feel": "Lavoro sull'addome, nessun dolore lombare.",
+  "stop": "Fermati se senti dolore nella zona lombare.",
+  "sources": [
+    "ace-plank"
+  ],
+  "reviewedBy": null
+}

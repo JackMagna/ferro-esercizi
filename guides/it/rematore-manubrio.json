@@ -1,0 +1,45 @@
+{
+  "id": "rematore-manubrio",
+  "name": "Rematore con manubrio",
+  "aliases": [
+    "rematore manubrio",
+    "rematore a un braccio",
+    "one arm row"
+  ],
+  "libraryIds": [
+    "One-Arm_Dumbbell_Row"
+  ],
+  "kind": "pesi liberi",
+  "muscles": "Dorsali, romboidi, deltoidi posteriori, bicipiti",
+  "setup": [
+    "Appoggia ginocchio e mano dello stesso lato su una panca: mano sotto la spalla, ginocchio sotto l'anca.",
+    "Schiena piatta, testa in linea, addome contratto.",
+    "Manubrio nell'altra mano, braccio disteso verso terra."
+  ],
+  "steps": [
+    "Tira il manubrio verso il fianco tenendo il braccio vicino al corpo.",
+    "Sali finché riesci senza ruotare il busto.",
+    "Scendi lentamente fino a braccio disteso."
+  ],
+  "mistakes": [
+    {
+      "error": "Ruotare il busto per alzare di più.",
+      "fix": "Spalle e bacino restano paralleli al pavimento."
+    },
+    {
+      "error": "Gomito che si apre lontano dal corpo.",
+      "fix": "Fallo scorrere lungo il fianco."
+    },
+    {
+      "error": "Spalla che scende verso terra in basso.",
+      "fix": "Tieni la spalla in posizione anche a braccio disteso."
+    }
+  ],
+  "cue": "Busto fermo, gomito al fianco, scendi piano.",
+  "feel": "Lavoro sul lato della schiena del braccio che tira.",
+  "stop": "Fermati se senti dolore alla schiena o alla spalla.",
+  "sources": [
+    "ace-sarow"
+  ],
+  "reviewedBy": null
+}

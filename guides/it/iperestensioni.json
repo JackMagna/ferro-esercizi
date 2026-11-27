@@ -1,0 +1,45 @@
+{
+  "id": "iperestensioni",
+  "name": "Iperestensioni (panca lombare)",
+  "aliases": [
+    "iperestensioni",
+    "panca lombare",
+    "back extension",
+    "estensioni schiena"
+  ],
+  "libraryIds": [
+    "Hyperextensions_Back_Extensions"
+  ],
+  "kind": "macchina",
+  "muscles": "Lombari, glutei, femorali",
+  "setup": [
+    "Regola il cuscino in modo che il bordo sia appena sotto le anche: devi poterti piegare dalle anche.",
+    "Talloni sotto i rulli, braccia incrociate sul petto."
+  ],
+  "steps": [
+    "Scendi piegandoti dalle anche con la schiena dritta.",
+    "Risali contraendo glutei e lombari fino a corpo in linea.",
+    "Fermati in linea, senza inarcarti all'indietro."
+  ],
+  "mistakes": [
+    {
+      "error": "Salire oltre la linea del corpo.",
+      "fix": "Fermati quando busto e gambe sono allineati."
+    },
+    {
+      "error": "Cuscino troppo alto, sulla pancia.",
+      "fix": "Abbassalo sotto le anche."
+    },
+    {
+      "error": "Movimento veloce a scatti.",
+      "fix": "Sali e scendi in 2 o 3 secondi."
+    }
+  ],
+  "cue": "Piegati dalle anche, sali fino in linea.",
+  "feel": "Lavoro su glutei e bassa schiena, senza dolore.",
+  "stop": "Fermati se senti dolore lombare acuto.",
+  "sources": [
+    "lf-be"
+  ],
+  "reviewedBy": null
+}
