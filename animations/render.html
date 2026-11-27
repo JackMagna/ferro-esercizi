@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>ferro-esercizi: resa delle animazioni</title>
+<style>html,body{margin:0;background:#222529}canvas{display:block}</style>
+<script type="importmap">{ "imports": { "three": "/node_modules/three/build/three.module.min.js" } }</script>
+</head>
+<body>
+<canvas id="gl"></canvas>
+<canvas id="still" style="display:none"></canvas>
+<script type="module">
+import { stage } from './lib/engine.js';
+
+const q = new URLSearchParams(location.search);
+const W = Number(q.get('w') || 540), H = Number(q.get('h') || 540);
+const mod = (await import(`./scenes/${q.get('scene')}.js`)).default;
+const gl = document.getElementById('gl');
+gl.width = W; gl.height = H;
+const st = stage(gl, { width: W, height: H, camera: mod.camera, target: mod.target });
+const sc = mod.build(st);
+
+window.SCENE = { id: mod.id, duration: mod.duration };
+window.frameAt = (t) => { sc.update(t); st.render(); return gl.toDataURL('image/png'); };
+
+/** Disegno della posizione di partenza: fotogramma fermo con i numeri dei passi di «setup». */
+window.still = () => {
+  const marks = sc.markers();
+  st.render();
+  const c = document.getElementById('still');
+  c.width = W; c.height = H;
+  const x = c.getContext('2d');
+  x.drawImage(gl, 0, 0);
+  const r = Math.round(W * 0.03);
+  for (const m of marks) {
+    const p = st.project(m.at);
+    x.beginPath(); x.arc(p.x, p.y, r, 0, Math.PI * 2);
+    x.fillStyle = '#f0c33c'; x.fill();
+    x.lineWidth = Math.max(2, r * 0.18); x.strokeStyle = '#2a2104'; x.stroke();
+    x.fillStyle = '#2a2104';
+    x.font = `700 ${Math.round(r * 1.25)}px system-ui, sans-serif`;
+    x.textAlign = 'center'; x.textBaseline = 'middle';
+    x.fillText(String(m.n), p.x, p.y + 1);
+  }
+  return c.toDataURL('image/png');
+};
+window.READY = true;
+</script>
+</body>
+</html>

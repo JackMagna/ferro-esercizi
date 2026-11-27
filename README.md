@@ -7,6 +7,21 @@ e quando fermarsi. Le usa l'app [Ferro](https://github.com/JackMagna/ferro); chi
 Oggi: **45 schede**, collegate a **56 esercizi** di [free-exercise-db](https://github.com/yuhonas/free-exercise-db)
 (macchine, cavi, pesi liberi, corpo libero).
 
+## Animazioni (prototipo)
+
+Mini video 3D e disegni della posizione di partenza, fatti in codice con three.js: manichino neutro,
+macchine generiche, il muscolo che lavora in giallo. Per ora tre esercizi; la pagina con video,
+disegni e testi è [esempi/index.html](esempi/index.html).
+
+| Leg press | Lat machine | Leg extension |
+|:-:|:-:|:-:|
+| [![Leg press](dist/animations/leg-press.gif)](dist/animations/leg-press.mp4) | [![Lat machine](dist/animations/lat-machine.gif)](dist/animations/lat-machine.mp4) | [![Leg extension](dist/animations/leg-extension.gif)](dist/animations/leg-extension.mp4) |
+| ![Posizione di partenza della leg press](dist/animations/leg-press.setup.webp) | ![Posizione di partenza della lat machine](dist/animations/lat-machine.setup.webp) | ![Posizione di partenza della leg extension](dist/animations/leg-extension.setup.webp) |
+
+I numeri gialli nei disegni corrispondono ai passi di `setup` della scheda. Per ogni esercizio in
+`dist/animations/` ci sono `<id>.webm` e `<id>.mp4` (circa 30 KB, per le app), `<id>.poster.webp`,
+`<id>.setup.webp` e `<id>.gif` (per questa pagina). Come si rifanno: [animations/README.md](animations/README.md).
+
 ## Come si usa
 
 Il file pronto è `dist/guides.it.json` (formato `ferro-guides-v1`). Si può leggere direttamente da jsDelivr,
@@ -40,7 +55,7 @@ node scripts/build.mjs            # controlla le schede e rifà dist/
 node scripts/build.mjs --check    # solo controllo (lo fa GitHub a ogni modifica)
 ```
 
-Serve solo Node 20 o più recente, nessuna dipendenza.
+Per le schede serve solo Node 20 o più recente, nessuna dipendenza. Le animazioni usano anche three.js (`npm install`), Playwright e ffmpeg.
 
 ## Da dove vengono i testi
 
@@ -56,11 +71,11 @@ non sono ancora state controllate da un professionista.
 
 ## Licenza
 
-- Testi e dati (`guides/`, `sources.json`, `dist/`): [CC BY-SA 4.0](LICENSE). Puoi copiarli, tradurli e usarli
+- Testi, dati, video e disegni (`guides/`, `sources.json`, `dist/`): [CC BY-SA 4.0](LICENSE). Puoi copiarli, tradurli e usarli
   anche in progetti commerciali, citando **«ferro-esercizi»** con un link a questo repository.
   Se modifichi o traduci i testi, devi pubblicare la tua versione con la stessa licenza.
   Mostrarli in un'app non obbliga a cambiare la licenza dell'app.
-- Script e schema (`scripts/`, `schema/`): [MIT](LICENSE-CODE).
+- Script, schema e codice delle animazioni (`scripts/`, `schema/`, `animations/`): [MIT](LICENSE-CODE).
 
 ## Contribuire
 
