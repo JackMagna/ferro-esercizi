@@ -8,3 +8,4 @@ manichino neutro e macchine generiche, senza modelli, foto o marchi di altri.
 - `node scripts/render-animations.mjs [id ...]` crea in `dist/animations/`: `<id>.webm`, `<id>.mp4` (iPhone), `<id>.poster.webp`, `<id>.setup.webp`. Servono Playwright con Chromium e ffmpeg; `--sheet` aggiunge un provino.
 
 Licenze: codice MIT (`LICENSE-CODE`), video e disegni CC BY-SA 4.0 come le schede.
+- `esempi/index.html`: pagina con gli esempi (si apre nel browser).

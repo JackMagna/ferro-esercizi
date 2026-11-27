@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ferro, esercizi animati</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: una colonna di schede esercizio, video e disegno affiancati, testi della libreria sotto */
+:root{--ink:#1a1c1f;--panel:#222529;--raised:#2c3035;--line:#3a3f45;--chalk:#eeebe4;--muted:#a8a69e;--plate:#f0c33c;--plate-ink:#2a2104;
+--display:"Barlow Semi Condensed","Arial Narrow",system-ui,sans-serif;--body:Inter,system-ui,-apple-system,sans-serif;color-scheme:dark}
+body{background:var(--ink);color:var(--chalk);font-family:var(--body);font-size:15px;line-height:1.55;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:32px 48px}
+main{max-width:980px;margin:0 auto;display:grid;gap:28px}
+.intro h1{font-family:var(--display);font-size:clamp(28px,5vw,40px);margin:0 0 8px;text-wrap:balance}
+.intro p{color:var(--muted);max-width:68ch;margin:0 0 8px}
+.tag{display:inline-block;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--plate-ink);background:var(--plate);border-radius:4px;padding:2px 8px;font-weight:600;margin-bottom:10px}
+.ex{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;display:grid;gap:16px}
+.ex h2{font-family:var(--display);font-size:24px;margin:0}
+.cue{margin:2px 0 0;color:var(--plate)}
+.media{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+figure{margin:0;display:grid;gap:6px;min-width:0}
+video,img{width:100%;max-width:100%;aspect-ratio:1;border-radius:10px;display:block;background:var(--raised)}
+figcaption{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.text{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.text>div{min-width:0}
+h3{font-size:13px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0 0 6px;font-weight:600}
+ol{margin:0;padding-left:20px;display:grid;gap:4px}
+.notes{color:var(--muted);font-size:14px;max-width:72ch}
+.notes h2{font-family:var(--display);color:var(--chalk);font-size:20px;margin:0 0 6px}
+.notes ul{padding-left:20px;margin:0;display:grid;gap:4px}
+@media (prefers-reduced-motion:reduce){video{animation:none}}
+</style>
+</head>
+<body>
+<main>
+<section class="intro"><span class="tag">Prototipo</span><h1>Esercizi animati per Ferro</h1>
+<p>Tre macchine per provare lo stile: manichino neutro, macchine generiche senza marchi, il muscolo che lavora si colora di giallo Ferro mentre spinge o tira. I numeri gialli nel disegno corrispondono ai passi di «Prima di iniziare».</p></section>
+<article class="ex">
+<header><h2>Leg press (pressa per le gambe)</h2><p class="cue">«Talloni giù, bacino incollato, non bloccare le ginocchia.»</p></header>
+<div class="media">
+<figure><video autoplay loop muted playsinline poster="../dist/animations/leg-press.poster.webp"><source type="video/webm" src="../dist/animations/leg-press.webm"><source type="video/mp4" src="../dist/animations/leg-press.mp4"></video><figcaption>Mini video, una ripetizione in loop · 23 KB</figcaption></figure>
+<figure><img alt="Posizione di partenza con i numeri delle regolazioni" src="../dist/animations/leg-press.setup.webp"><figcaption>Disegno della posizione · 9 KB</figcaption></figure>
+</div>
+<div class="text">
+<div><h3>Prima di iniziare</h3><ol><li>Regola lo schienale o il carrello in modo che, con i piedi sulla pedana, le ginocchia siano piegate circa a 90 gradi.</li><li>Piedi alla larghezza delle anche o delle spalle, punte leggermente in fuori, talloni ben appoggiati.</li><li>Schiena e bacino aderenti allo schienale, mani sulle maniglie laterali.</li><li>Sulle presse a dischi sblocca le sicure solo quando sei in posizione e rimettile alla fine.</li></ol></div>
+<div><h3>Esecuzione</h3><ol><li>Spingi la pedana con tutto il piede, soprattutto con talloni e metà piede.</li><li>Arriva quasi a gambe distese, lasciando le ginocchia leggermente piegate.</li><li>Torna giù lentamente, in 2 o 3 secondi, fino al punto in cui il bacino resta appoggiato.</li><li>Senza rimbalzare, riparti per la ripetizione successiva.</li></ol></div>
+</div></article>
+<article class="ex">
+<header><h2>Lat machine (lat pulldown)</h2><p class="cue">«Spalle giù, gomiti in tasca, barra al petto.»</p></header>
+<div class="media">
+<figure><video autoplay loop muted playsinline poster="../dist/animations/lat-machine.poster.webp"><source type="video/webm" src="../dist/animations/lat-machine.webm"><source type="video/mp4" src="../dist/animations/lat-machine.mp4"></video><figcaption>Mini video, una ripetizione in loop · 28 KB</figcaption></figure>
+<figure><img alt="Posizione di partenza con i numeri delle regolazioni" src="../dist/animations/lat-machine.setup.webp"><figcaption>Disegno della posizione · 10 KB</figcaption></figure>
+</div>
+<div class="text">
+<div><h3>Prima di iniziare</h3><ol><li>Regola il rullo in modo che le cosce siano bloccate sotto, con i piedi a terra.</li><li>Afferra la barra un po' più larga delle spalle (presa larga) oppure con la maniglia stretta, poi siediti.</li><li>Busto leggermente inclinato indietro dai fianchi, petto in fuori.</li></ol></div>
+<div><h3>Esecuzione</h3><ol><li>Prima abbassa le spalle, poi tira la barra verso la parte alta del petto portando i gomiti verso i fianchi.</li><li>Tieni un istante con le scapole strette.</li><li>Torna su lentamente fino a braccia quasi distese, lasciando salire le spalle solo alla fine.</li></ol></div>
+</div></article>
+<article class="ex">
+<header><h2>Leg extension</h2><p class="cue">«Ginocchio sul perno, sali e tieni, scendi piano.»</p></header>
+<div class="media">
+<figure><video autoplay loop muted playsinline poster="../dist/animations/leg-extension.poster.webp"><source type="video/webm" src="../dist/animations/leg-extension.webm"><source type="video/mp4" src="../dist/animations/leg-extension.mp4"></video><figcaption>Mini video, una ripetizione in loop · 32 KB</figcaption></figure>
+<figure><img alt="Posizione di partenza con i numeri delle regolazioni" src="../dist/animations/leg-extension.setup.webp"><figcaption>Disegno della posizione · 10 KB</figcaption></figure>
+</div>
+<div class="text">
+<div><h3>Prima di iniziare</h3><ol><li>Regola lo schienale finché il ginocchio è allineato con il perno della macchina (di solito segnato da un bollino o da un colore).</li><li>Il cuscinetto per le gambe va appena sopra la caviglia, sul collo del piede, non sugli stinchi.</li><li>Se c'è la regolazione della partenza, scegli un angolo comodo per il ginocchio.</li><li>Schiena appoggiata, mani sulle maniglie laterali.</li></ol></div>
+<div><h3>Esecuzione</h3><ol><li>Distendi le gambe in modo controllato fino quasi alla distensione completa.</li><li>Tieni un istante in alto contraendo le cosce.</li><li>Torna giù lentamente senza far toccare il pacco pesi.</li></ol></div>
+</div></article>
+<section class="notes"><h2>Come sono fatti</h2><ul>
+<li>Tutto disegnato in codice con three.js, nessun modello o foto presi da altri: licenza compatibile con la libreria (CC BY-SA 4.0 per i video, MIT per il codice).</li>
+<li>Un comando rifà tutti i video: Chromium disegna i fotogrammi, ffmpeg li comprime in WebM e MP4 (per iPhone).</li>
+<li>Circa 25–35 KB per video e 10 KB per disegno: tutti i 45 esercizi starebbero sotto i 2 MB, quindi possono stare dentro l'app e funzionare offline.</li>
+<li>Il ritmo segue la scheda: salita in circa 1 secondo, pausa dove serve, discesa in 2–3 secondi.</li>
+</ul></section>
+</main>
+<p class="notes">Rifare i video: <code>node scripts/render-animations.mjs</code>. Video e disegni CC BY-SA 4.0, codice MIT.</p>
+</body>
+</html>
