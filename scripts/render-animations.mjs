@@ -20,7 +20,6 @@ const SHEET = args.includes('--sheet');
 const skip = new Set();
 args.forEach((a, i) => { if (a.startsWith('--')) { skip.add(i); if (!['--sheet'].includes(a)) skip.add(i + 1); } });
 let ids = args.filter((_, i) => !skip.has(i));
-if (!ids.length) ids = (await readdir(join(root, 'animations/scenes'))).filter((f) => f.endsWith('.js')).map((f) => f.slice(0, -3));
 
 const types = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.json': 'application/json' };
 const server = createServer(async (req, res) => {
@@ -37,6 +36,13 @@ let playwright;
 try { playwright = require('playwright'); } catch { playwright = require(require.resolve('playwright', { paths: ['/usr/lib/node_modules', '/usr/local/lib/node_modules'] })); }
 const browser = await playwright.chromium.launch({ args: ['--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] });
 const out = join(root, 'dist/animations');
+if (!ids.length) {
+  const p = await browser.newPage();
+  await p.goto(`http://127.0.0.1:${port}/animations/render.html`);
+  await p.waitForFunction(() => window.READY === true, null, { timeout: 30000 });
+  ids = await p.evaluate(() => window.SCENE_IDS);
+  await p.close();
+}
 await mkdir(out, { recursive: true });
 const ff = (...a) => execFileSync('ffmpeg', ['-hide_banner', '-loglevel', 'error', '-y', ...a]);
 const toBuf = (url) => Buffer.from(url.split(',')[1], 'base64');

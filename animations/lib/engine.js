@@ -141,7 +141,7 @@ export function mannequin() {
     // Tronco orientato da bacino a petto, con il fronte nella direzione j.front.
     const up = j.chest.clone().sub(j.pelvis).normalize();
     const side = V(0, 0, 1);
-    const front = up.clone().cross(side).normalize().multiplyScalar(-1);
+    const front = up.clone().cross(side).normalize();
     const basis = new THREE.Matrix4().makeBasis(front, up, side);
     for (const b of blobs) {
       b.m.position.copy(j.pelvis).lerp(j.chest, b.at).addScaledVector(front, b.at > 0.5 ? -0.005 : 0);
@@ -149,7 +149,7 @@ export function mannequin() {
       b.m.scale.set(...b.size);
     }
     const hup = j.head.clone().sub(j.neck).normalize();
-    const hfront = hup.clone().cross(side).normalize().multiplyScalar(-1);
+    const hfront = hup.clone().cross(side).normalize();
     head.position.copy(j.head);
     head.quaternion.setFromRotationMatrix(new THREE.Matrix4().makeBasis(hfront, hup, side));
     head.scale.set(0.1, 0.12, 0.092);
@@ -211,7 +211,7 @@ export function pad(center, dir, n, [len, thick, width], color = PALETTE.pad) {
   const m = mesh(geo, color, { rough: 0.8 });
   const d = dir.clone().normalize();
   const nn = n.clone().normalize();
-  const side = d.clone().cross(nn).normalize();
+  const side = nn.clone().cross(d).normalize();
   m.quaternion.setFromRotationMatrix(new THREE.Matrix4().makeBasis(nn, d, side));
   m.scale.set(1, 1, width / thick);
   m.position.copy(center);

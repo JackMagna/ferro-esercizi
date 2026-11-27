@@ -7,19 +7,70 @@ e quando fermarsi. Le usa l'app [Ferro](https://github.com/JackMagna/ferro); chi
 Oggi: **45 schede**, collegate a **56 esercizi** di [free-exercise-db](https://github.com/yuhonas/free-exercise-db)
 (macchine, cavi, pesi liberi, corpo libero).
 
-## Animazioni (prototipo)
+## Animazioni
 
-Mini video 3D e disegni della posizione di partenza, fatti in codice con three.js: manichino neutro,
-macchine generiche, il muscolo che lavora in giallo. Per ora tre esercizi; la pagina con video,
-disegni e testi è [esempi/index.html](esempi/index.html).
+Mini video 3D e disegni della posizione di partenza per tutti i **45 esercizi**, fatti in codice con three.js:
+manichino neutro, macchine generiche, il muscolo che lavora in giallo. La pagina con video, disegni e testi è
+[esempi/index.html](esempi/index.html).
 
-| Leg press | Lat machine | Leg extension |
-|:-:|:-:|:-:|
-| [![Leg press](dist/animations/leg-press.gif)](dist/animations/leg-press.mp4) | [![Lat machine](dist/animations/lat-machine.gif)](dist/animations/lat-machine.mp4) | [![Leg extension](dist/animations/leg-extension.gif)](dist/animations/leg-extension.mp4) |
-| ![Posizione di partenza della leg press](dist/animations/leg-press.setup.webp) | ![Posizione di partenza della lat machine](dist/animations/lat-machine.setup.webp) | ![Posizione di partenza della leg extension](dist/animations/leg-extension.setup.webp) |
+### Macchine
 
-I numeri gialli nei disegni corrispondono ai passi di `setup` della scheda. Per ogni esercizio in
-`dist/animations/` ci sono `<id>.webm` e `<id>.mp4` (circa 30 KB, per le app), `<id>.poster.webp`,
+| Abductor | Adductor | Chest press | Crunch alla macchina |
+|:-:|:-:|:-:|:-:|
+| [![Abductor](dist/animations/abductor.gif)](dist/animations/abductor.mp4) | [![Adductor](dist/animations/adductor.gif)](dist/animations/adductor.mp4) | [![Chest press](dist/animations/chest-press.gif)](dist/animations/chest-press.mp4) | [![Crunch alla macchina](dist/animations/crunch-macchina.gif)](dist/animations/crunch-macchina.mp4) |
+
+| Curl alla macchina | Hack squat | Iperestensioni | Leg curl sdraiato |
+|:-:|:-:|:-:|:-:|
+| [![Curl alla macchina](dist/animations/curl-macchina.gif)](dist/animations/curl-macchina.mp4) | [![Hack squat](dist/animations/hack-squat.gif)](dist/animations/hack-squat.mp4) | [![Iperestensioni](dist/animations/iperestensioni.gif)](dist/animations/iperestensioni.mp4) | [![Leg curl sdraiato](dist/animations/leg-curl-sdraiato.gif)](dist/animations/leg-curl-sdraiato.mp4) |
+
+| Leg curl seduto | Leg extension | Polpacci alla leg press | Leg press |
+|:-:|:-:|:-:|:-:|
+| [![Leg curl seduto](dist/animations/leg-curl-seduto.gif)](dist/animations/leg-curl-seduto.mp4) | [![Leg extension](dist/animations/leg-extension.gif)](dist/animations/leg-extension.mp4) | [![Polpacci alla leg press](dist/animations/leg-press-polpacci.gif)](dist/animations/leg-press-polpacci.mp4) | [![Leg press](dist/animations/leg-press.gif)](dist/animations/leg-press.mp4) |
+
+| Pectoral machine | Polpacci in piedi | Polpacci da seduto | Reverse fly alla macchina |
+|:-:|:-:|:-:|:-:|
+| [![Pectoral machine](dist/animations/pectoral-machine.gif)](dist/animations/pectoral-machine.mp4) | [![Polpacci in piedi](dist/animations/polpacci-in-piedi.gif)](dist/animations/polpacci-in-piedi.mp4) | [![Polpacci da seduto](dist/animations/polpacci-seduto.gif)](dist/animations/polpacci-seduto.mp4) | [![Reverse fly alla macchina](dist/animations/reverse-fly-macchina.gif)](dist/animations/reverse-fly-macchina.mp4) |
+
+| Rematore alla macchina | Shoulder press alla macchina | Squat al multipower | Tricipiti alla macchina |
+|:-:|:-:|:-:|:-:|
+| [![Rematore alla macchina](dist/animations/row-macchina.gif)](dist/animations/row-macchina.mp4) | [![Shoulder press alla macchina](dist/animations/shoulder-press-macchina.gif)](dist/animations/shoulder-press-macchina.mp4) | [![Squat al multipower](dist/animations/squat-multipower.gif)](dist/animations/squat-multipower.mp4) | [![Tricipiti alla macchina](dist/animations/tricipiti-macchina.gif)](dist/animations/tricipiti-macchina.mp4) |
+
+### Cavi
+
+| Croci ai cavi | Face pull ai cavi | Lat machine | Pulley basso |
+|:-:|:-:|:-:|:-:|
+| [![Croci ai cavi](dist/animations/croci-cavi.gif)](dist/animations/croci-cavi.mp4) | [![Face pull ai cavi](dist/animations/face-pull.gif)](dist/animations/face-pull.mp4) | [![Lat machine](dist/animations/lat-machine.gif)](dist/animations/lat-machine.mp4) | [![Pulley basso](dist/animations/pulley.gif)](dist/animations/pulley.mp4) |
+
+| Push down ai cavi |
+|:-:|
+| [![Push down ai cavi](dist/animations/pushdown.gif)](dist/animations/pushdown.mp4) |
+
+### Pesi liberi
+
+| Affondi con manubri | Alzate laterali con manubri | Curl con bilanciere | Curl con manubri |
+|:-:|:-:|:-:|:-:|
+| [![Affondi con manubri](dist/animations/affondi.gif)](dist/animations/affondi.mp4) | [![Alzate laterali con manubri](dist/animations/alzate-laterali.gif)](dist/animations/alzate-laterali.mp4) | [![Curl con bilanciere](dist/animations/curl-bilanciere.gif)](dist/animations/curl-bilanciere.mp4) | [![Curl con manubri](dist/animations/curl-manubri.gif)](dist/animations/curl-manubri.mp4) |
+
+| Goblet squat | Hip thrust e ponte per i glutei | Lento avanti con bilanciere in piedi | Lento con manubri da seduto |
+|:-:|:-:|:-:|:-:|
+| [![Goblet squat](dist/animations/goblet-squat.gif)](dist/animations/goblet-squat.mp4) | [![Hip thrust e ponte per i glutei](dist/animations/hip-thrust.gif)](dist/animations/hip-thrust.mp4) | [![Lento avanti con bilanciere in piedi](dist/animations/lento-avanti.gif)](dist/animations/lento-avanti.mp4) | [![Lento con manubri da seduto](dist/animations/lento-manubri.gif)](dist/animations/lento-manubri.mp4) |
+
+| Panca inclinata con manubri | Panca piana con manubri | Panca piana con bilanciere | Rematore con bilanciere |
+|:-:|:-:|:-:|:-:|
+| [![Panca inclinata con manubri](dist/animations/panca-inclinata-manubri.gif)](dist/animations/panca-inclinata-manubri.mp4) | [![Panca piana con manubri](dist/animations/panca-manubri.gif)](dist/animations/panca-manubri.mp4) | [![Panca piana con bilanciere](dist/animations/panca-piana.gif)](dist/animations/panca-piana.mp4) | [![Rematore con bilanciere](dist/animations/rematore-bilanciere.gif)](dist/animations/rematore-bilanciere.mp4) |
+
+| Rematore con manubrio | Squat con bilanciere | Stacco rumeno | Stacco da terra |
+|:-:|:-:|:-:|:-:|
+| [![Rematore con manubrio](dist/animations/rematore-manubrio.gif)](dist/animations/rematore-manubrio.mp4) | [![Squat con bilanciere](dist/animations/squat-bilanciere.gif)](dist/animations/squat-bilanciere.mp4) | [![Stacco rumeno](dist/animations/stacco-rumeno.gif)](dist/animations/stacco-rumeno.mp4) | [![Stacco da terra](dist/animations/stacco.gif)](dist/animations/stacco.mp4) |
+
+### Corpo libero
+
+| Dip alle parallele | Piegamenti sulle braccia | Plank | Trazioni alla sbarra |
+|:-:|:-:|:-:|:-:|
+| [![Dip alle parallele](dist/animations/dip.gif)](dist/animations/dip.mp4) | [![Piegamenti sulle braccia](dist/animations/piegamenti.gif)](dist/animations/piegamenti.mp4) | [![Plank](dist/animations/plank.gif)](dist/animations/plank.mp4) | [![Trazioni alla sbarra](dist/animations/trazioni.gif)](dist/animations/trazioni.mp4) |
+
+I numeri gialli nei disegni (`<id>.setup.webp`) corrispondono ai passi di `setup` della scheda. Per ogni esercizio in
+`dist/animations/` ci sono `<id>.webm` e `<id>.mp4` (circa 20–35 KB, per le app), `<id>.poster.webp`,
 `<id>.setup.webp` e `<id>.gif` (per questa pagina). Come si rifanno: [animations/README.md](animations/README.md).
 
 ## Come si usa

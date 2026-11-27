@@ -14,7 +14,9 @@ import { stage } from './lib/engine.js';
 
 const q = new URLSearchParams(location.search);
 const W = Number(q.get('w') || 540), H = Number(q.get('h') || 540);
-const mod = (await import(`./scenes/${q.get('scene')}.js`)).default;
+const ALL = (await import('./scenes/index.js')).default;
+window.SCENE_IDS = Object.keys(ALL);
+const mod = ALL[q.get('scene')] ?? Object.values(ALL)[0];
 const gl = document.getElementById('gl');
 gl.width = W; gl.height = H;
 const st = stage(gl, { width: W, height: H, camera: mod.camera, target: mod.target });
@@ -44,6 +46,7 @@ window.still = () => {
   }
   return c.toDataURL('image/png');
 };
+window.ST = st;
 window.READY = true;
 </script>
 </body>
